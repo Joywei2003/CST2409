@@ -1,0 +1,263 @@
+_------------------------------------------------------------_Array
+(
+    [0] => Array
+        (
+            [id] => 
+            [companyId] => 
+            [symbol] => 
+            [issuerName] => 
+            [cl] => 
+            [cusip] => 
+            [sharesValue] => 0.0000000
+            [percentage] => 0.0000000
+            [shares] => 0.0000000
+        )
+
+    [1] => Array
+        (
+            [id] => $id
+            [companyId] => $companyId
+            [symbol] => $symbol
+            [issuerName] => $issuerName
+            [cl] => $cl
+            [cusip] => $cusip
+            [sharesValue] => 0.0000000
+            [percentage] => 0.0000000
+            [shares] => 0.0000000
+        )
+
+    [2] => Array
+        (
+            [id] => A001
+            [companyId] => A001
+            [symbol] => NEAR
+            [issuerName] => ISHARES US ETF TR
+            [cl] => SHT MAT BD ETF
+            [cusip] => 46431W507
+            [sharesValue] => 4957.0000000
+            [percentage] => 0.0540000
+            [shares] => 98780.0000000
+        )
+
+    [3] => Array
+        (
+            [id] => A002
+            [companyId] => A001
+            [symbol] => IJR
+            [issuerName] => ISHARES TR
+            [cl] => CORE S&P SCP ETF
+            [cusip] => 464287804
+            [sharesValue] => 4308.0000000
+            [percentage] => 0.0470000
+            [shares] => 49422.0000000
+        )
+
+    [4] => Array
+        (
+            [id] => A003
+            [companyId] => A001
+            [symbol] => BSV
+            [issuerName] => VANGUARD BD INDEX FD INC
+            [cl] => SHORT TRM BOND
+            [cusip] => 921937827
+            [sharesValue] => 3157.0000000
+            [percentage] => 0.0340000
+            [shares] => 40459.0000000
+        )
+
+    [5] => Array
+        (
+            [id] => A004
+            [companyId] => A001
+            [symbol] => VGT
+            [issuerName] => VANGUARD WORLD FDS
+            [cl] => INF TECH ETF
+            [cusip] => 92204A702
+            [sharesValue] => 3153.0000000
+            [percentage] => 0.0340000
+            [shares] => 15582.0000000
+        )
+
+    [6] => Array
+        (
+            [id] => A005
+            [companyId] => A001
+            [symbol] => IJH
+            [issuerName] => ISHARES TR
+            [cl] => CORE S&P MCP ETF
+            [cusip] => 464287507
+            [sharesValue] => 3119.0000000
+            [percentage] => 0.0340000
+            [shares] => 15505.0000000
+        )
+
+    [7] => Array
+        (
+            [id] => A006
+            [companyId] => A001
+            [symbol] => IBB
+            [issuerName] => ISHARES TR
+            [cl] => NASDQ BIOTEC ETF
+            [cusip] => 464287556
+            [sharesValue] => 3002.0000000
+            [percentage] => 0.0330000
+            [shares] => 24617.0000000
+        )
+
+    [8] => Array
+        (
+            [id] => A007
+            [companyId] => A001
+            [symbol] => IVE
+            [issuerName] => ISHARES TR
+            [cl] => S&P 500 VAL ETF
+            [cusip] => 464287408
+            [sharesValue] => 2474.0000000
+            [percentage] => 0.0270000
+            [shares] => 21369.0000000
+        )
+
+    [9] => Array
+        (
+            [id] => A008
+            [companyId] => A001
+            [symbol] => XLF
+            [issuerName] => SELECT SECTOR SPDR TR
+            [cl] => SBI INT-FINL
+            [cusip] => 81369Y605
+            [sharesValue] => 2366.0000000
+            [percentage] => 0.0260000
+            [shares] => 85856.0000000
+        )
+
+    [10] => Array
+        (
+            [id] => A009
+            [companyId] => A001
+            [symbol] => MTUM
+            [issuerName] => ISHARES TR
+            [cl] => USA MOMENTUM FCT
+            [cusip] => 46432F396
+            [sharesValue] => 2185.0000000
+            [percentage] => 0.0240000
+            [shares] => 18362.0000000
+        )
+
+    [11] => Array
+        (
+            [id] => A010
+            [companyId] => A001
+            [symbol] => VEU
+            [issuerName] => VANGUARD INDEX FDS
+            [cl] => LARGE CAP ETF
+            [cusip] => 922042775
+            [sharesValue] => 1830.0000000
+            [percentage] => 0.0200000
+            [shares] => 13709.0000000
+        )
+
+    [12] => Array
+        (
+            [id] => A011
+            [companyId] => A001
+            [symbol] => VEU
+            [issuerName] => VANGUARD INTL EQUITY INDEX F
+            [cl] => ALLWRLD EX US
+            [cusip] => 922042775
+            [sharesValue] => 1701.0000000
+            [percentage] => 0.0190000
+            [shares] => 32724.0000000
+        )
+
+    [13] => Array
+        (
+            [id] => A012
+            [companyId] => A001
+            [symbol] => MEAR
+            [issuerName] => ISHARES US ETF TR
+            [cl] => SHT MAT MUN ETF
+            [cusip] => 46431W838
+            [sharesValue] => 1599.0000000
+            [percentage] => 0.0170000
+            [shares] => 32003.0000000
+        )
+
+    [14] => Array
+        (
+            [id] => A013
+            [companyId] => A001
+            [symbol] => AGG
+            [issuerName] => ISHARES TR
+            [cl] => CORE US AGGBD ET
+            [cusip] => 464287226
+            [sharesValue] => 1536.0000000
+            [percentage] => 0.0170000
+            [shares] => 14559.0000000
+        )
+
+    [15] => Array
+        (
+            [id] => A014
+            [companyId] => A001
+            [symbol] => BRK-B
+            [issuerName] => BERKSHIRE HATHAWAY INC
+            [cl] => DEL CL B NEW
+            [cusip] => 84670702
+            [sharesValue] => 1481.0000000
+            [percentage] => 0.0160000
+            [shares] => 6919.0000000
+        )
+
+    [16] => Array
+        (
+            [id] => A015
+            [companyId] => A001
+            [symbol] => AMZN
+            [issuerName] => AMAZON COM INC
+            [cl] => COM
+            [cusip] => 23135106
+            [sharesValue] => 1476.0000000
+            [percentage] => 0.0160000
+            [shares] => 738.0000000
+        )
+
+    [17] => Array
+        (
+            [id] => A016
+            [companyId] => A001
+            [symbol] => FLOT
+            [issuerName] => ISHARES TR
+            [cl] => FLTG RATE NT ETF
+            [cusip] => 46429B655
+            [sharesValue] => 1392.0000000
+            [percentage] => 0.0150000
+            [shares] => 27470.0000000
+        )
+
+    [18] => Array
+        (
+            [id] => A017
+            [companyId] => A001
+            [symbol] => MSFT
+            [issuerName] => MICROSOFT CORP
+            [cl] => COM
+            [cusip] => 594918104
+            [sharesValue] => 1371.0000000
+            [percentage] => 0.0150000
+            [shares] => 11988.0000000
+        )
+
+    [19] => Array
+        (
+            [id] => A018
+            [companyId] => A001
+            [symbol] => SUB
+            [issuerName] => ISHARES TR
+            [cl] => SHRT NAT MUN ETF
+            [cusip] => 464288158
+            [sharesValue] => 1312.0000000
+            [percentage] => 0.0140000
+            [shares] => 12532.0000000
+        )
+
+)

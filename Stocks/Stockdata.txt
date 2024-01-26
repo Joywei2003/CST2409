@@ -1,0 +1,3641 @@
+Stock Object
+(
+    [rank:Stock:private] => 1
+    [symbol:Stock:private] => IQ
+    [company:Stock:private] => iQIYI| Inc.
+    [quant:Stock:private] => 4.99
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.95
+    [marketCap:Stock:private] => 6.4255037
+)
+Stock Object
+(
+    [rank:Stock:private] => 2
+    [symbol:Stock:private] => NGL
+    [company:Stock:private] => NGL Energy Partners LP
+    [quant:Stock:private] => 4.99
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 2.33
+    [marketCap:Stock:private] => 0.367700864
+)
+Stock Object
+(
+    [rank:Stock:private] => 3
+    [symbol:Stock:private] => PMTS
+    [company:Stock:private] => CPI Card Group Inc.
+    [quant:Stock:private] => 4.99
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.462612064
+)
+Stock Object
+(
+    [rank:Stock:private] => 4
+    [symbol:Stock:private] => TRMD
+    [company:Stock:private] => TORM plc
+    [quant:Stock:private] => 4.99
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 2.82249805
+)
+Stock Object
+(
+    [rank:Stock:private] => 5
+    [symbol:Stock:private] => AMAM
+    [company:Stock:private] => Ambrx Biopharma Inc.
+    [quant:Stock:private] => 4.99
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 0.493045728
+)
+Stock Object
+(
+    [rank:Stock:private] => 6
+    [symbol:Stock:private] => BWMN
+    [company:Stock:private] => Bowman Consulting Group Ltd.
+    [quant:Stock:private] => 4.99
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.370857408
+)
+Stock Object
+(
+    [rank:Stock:private] => 7
+    [symbol:Stock:private] => MPC
+    [company:Stock:private] => Marathon Petroleum Corporation
+    [quant:Stock:private] => 4.99
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 54.611427
+)
+Stock Object
+(
+    [rank:Stock:private] => 8
+    [symbol:Stock:private] => DLAKY
+    [company:Stock:private] => Deutsche Lufthansa AG
+    [quant:Stock:private] => 4.98
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 12.1205955
+)
+Stock Object
+(
+    [rank:Stock:private] => 9
+    [symbol:Stock:private] => ALGM
+    [company:Stock:private] => Allegro MicroSystems| Inc.
+    [quant:Stock:private] => 4.98
+    [saAuthors:Stock:private] => 2.5
+    [wallStreet:Stock:private] => 4.66
+    [marketCap:Stock:private] => 8.6370232
+)
+Stock Object
+(
+    [rank:Stock:private] => 10
+    [symbol:Stock:private] => YEXT
+    [company:Stock:private] => Yext| Inc.
+    [quant:Stock:private] => 4.98
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 1.12180749
+)
+Stock Object
+(
+    [rank:Stock:private] => 11
+    [symbol:Stock:private] => CDTX
+    [company:Stock:private] => Cidara Therapeutics| Inc.
+    [quant:Stock:private] => 4.98
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 0.147278912
+)
+Stock Object
+(
+    [rank:Stock:private] => 12
+    [symbol:Stock:private] => RYCEY
+    [company:Stock:private] => Rolls-Royce Holdings plc
+    [quant:Stock:private] => 4.98
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 14.2678385
+)
+Stock Object
+(
+    [rank:Stock:private] => 13
+    [symbol:Stock:private] => TNK
+    [company:Stock:private] => Teekay Tankers Ltd.
+    [quant:Stock:private] => 4.98
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 1.38946022
+)
+Stock Object
+(
+    [rank:Stock:private] => 14
+    [symbol:Stock:private] => PARR
+    [company:Stock:private] => Par Pacific Holdings| Inc.
+    [quant:Stock:private] => 4.98
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.71
+    [marketCap:Stock:private] => 1.6186263
+)
+Stock Object
+(
+    [rank:Stock:private] => 15
+    [symbol:Stock:private] => DTEGY
+    [company:Stock:private] => Deutsche Telekom AG
+    [quant:Stock:private] => 4.97
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 114
+)
+Stock Object
+(
+    [rank:Stock:private] => 16
+    [symbol:Stock:private] => PRVB
+    [company:Stock:private] => Provention Bio| Inc.
+    [quant:Stock:private] => 4.97
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 2.18549888
+)
+Stock Object
+(
+    [rank:Stock:private] => 17
+    [symbol:Stock:private] => OCCI
+    [company:Stock:private] => OFS Credit Company| Inc.
+    [quant:Stock:private] => 4.97
+    [saAuthors:Stock:private] => 2
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.095779278
+)
+Stock Object
+(
+    [rank:Stock:private] => 18
+    [symbol:Stock:private] => PERI
+    [company:Stock:private] => Perion Network Ltd.
+    [quant:Stock:private] => 4.97
+    [saAuthors:Stock:private] => 4.2
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 1.6516224
+)
+Stock Object
+(
+    [rank:Stock:private] => 19
+    [symbol:Stock:private] => ASUR
+    [company:Stock:private] => Asure Software| Inc.
+    [quant:Stock:private] => 4.97
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.274888384
+)
+Stock Object
+(
+    [rank:Stock:private] => 20
+    [symbol:Stock:private] => OSPN
+    [company:Stock:private] => OneSpan Inc.
+    [quant:Stock:private] => 4.97
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.73042419
+)
+Stock Object
+(
+    [rank:Stock:private] => 21
+    [symbol:Stock:private] => CMT
+    [company:Stock:private] => Core Molding Technologies| Inc.
+    [quant:Stock:private] => 4.97
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.139648896
+)
+Stock Object
+(
+    [rank:Stock:private] => 22
+    [symbol:Stock:private] => NRDBY
+    [company:Stock:private] => Nordea Bank Abp
+    [quant:Stock:private] => 4.96
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 38.59327
+)
+Stock Object
+(
+    [rank:Stock:private] => 23
+    [symbol:Stock:private] => BBVA
+    [company:Stock:private] => Banco Bilbao Vizcaya Argentaria| S.A.
+    [quant:Stock:private] => 4.96
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 38.780711
+)
+Stock Object
+(
+    [rank:Stock:private] => 24
+    [symbol:Stock:private] => FSLR
+    [company:Stock:private] => First Solar| Inc.
+    [quant:Stock:private] => 4.96
+    [saAuthors:Stock:private] => 2.83
+    [wallStreet:Stock:private] => 4.04
+    [marketCap:Stock:private] => 21.2813066
+)
+Stock Object
+(
+    [rank:Stock:private] => 25
+    [symbol:Stock:private] => VLO
+    [company:Stock:private] => Valero Energy Corporation
+    [quant:Stock:private] => 4.96
+    [saAuthors:Stock:private] => 3.6
+    [wallStreet:Stock:private] => 4.23
+    [marketCap:Stock:private] => 46.902329
+)
+Stock Object
+(
+    [rank:Stock:private] => 26
+    [symbol:Stock:private] => TGLS
+    [company:Stock:private] => Tecnoglass Inc.
+    [quant:Stock:private] => 4.96
+    [saAuthors:Stock:private] => 5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 1.76205965
+)
+Stock Object
+(
+    [rank:Stock:private] => 27
+    [symbol:Stock:private] => BRK.B
+    [company:Stock:private] => Berkshire Hathaway Inc.
+    [quant:Stock:private] => 4.96
+    [saAuthors:Stock:private] => 3.81
+    [wallStreet:Stock:private] => 3.75
+    [marketCap:Stock:private] => 643
+)
+Stock Object
+(
+    [rank:Stock:private] => 28
+    [symbol:Stock:private] => ASRT
+    [company:Stock:private] => Assertio Holdings| Inc.
+    [quant:Stock:private] => 4.96
+    [saAuthors:Stock:private] => 4.2
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 0.324022912
+)
+Stock Object
+(
+    [rank:Stock:private] => 29
+    [symbol:Stock:private] => NVCN
+    [company:Stock:private] => Neovasc Inc.
+    [quant:Stock:private] => 4.96
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.080664232
+)
+Stock Object
+(
+    [rank:Stock:private] => 30
+    [symbol:Stock:private] => ACLS
+    [company:Stock:private] => Axcelis Technologies| Inc.
+    [quant:Stock:private] => 4.95
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 4.83
+    [marketCap:Stock:private] => 4.19459712
+)
+Stock Object
+(
+    [rank:Stock:private] => 31
+    [symbol:Stock:private] => CRM
+    [company:Stock:private] => Salesforce| Inc.
+    [quant:Stock:private] => 4.95
+    [saAuthors:Stock:private] => 3.6
+    [wallStreet:Stock:private] => 4.26
+    [marketCap:Stock:private] => 185
+)
+Stock Object
+(
+    [rank:Stock:private] => 32
+    [symbol:Stock:private] => SCGLY
+    [company:Stock:private] => Soci‚t‚ G‚n‚rale Soci‚t‚ anonyme
+    [quant:Stock:private] => 4.95
+    [saAuthors:Stock:private] => 4.25
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 18.0823183
+)
+Stock Object
+(
+    [rank:Stock:private] => 33
+    [symbol:Stock:private] => HSBC
+    [company:Stock:private] => HSBC Holdings plc
+    [quant:Stock:private] => 4.95
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 130
+)
+Stock Object
+(
+    [rank:Stock:private] => 34
+    [symbol:Stock:private] => ISNPY
+    [company:Stock:private] => Intesa Sanpaolo S.p.A.
+    [quant:Stock:private] => 4.95
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 41.990287
+)
+Stock Object
+(
+    [rank:Stock:private] => 35
+    [symbol:Stock:private] => AMLX
+    [company:Stock:private] => Amylyx Pharmaceuticals| Inc.
+    [quant:Stock:private] => 4.95
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 2.02083942
+)
+Stock Object
+(
+    [rank:Stock:private] => 36
+    [symbol:Stock:private] => NEO
+    [company:Stock:private] => NeoGenomics| Inc.
+    [quant:Stock:private] => 4.95
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.07
+    [marketCap:Stock:private] => 2.31208781
+)
+Stock Object
+(
+    [rank:Stock:private] => 37
+    [symbol:Stock:private] => XM
+    [company:Stock:private] => Qualtrics International Inc.
+    [quant:Stock:private] => 4.94
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 3.53
+    [marketCap:Stock:private] => 10.6919516
+)
+Stock Object
+(
+    [rank:Stock:private] => 38
+    [symbol:Stock:private] => SIEGY
+    [company:Stock:private] => Siemens Aktiengesellschaft
+    [quant:Stock:private] => 4.94
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 116
+)
+Stock Object
+(
+    [rank:Stock:private] => 39
+    [symbol:Stock:private] => BBSEY
+    [company:Stock:private] => BB Seguridade Participa‡?es S.A.
+    [quant:Stock:private] => 4.94
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 12.2809037
+)
+Stock Object
+(
+    [rank:Stock:private] => 40
+    [symbol:Stock:private] => OPRA
+    [company:Stock:private] => Opera Limited
+    [quant:Stock:private] => 4.94
+    [saAuthors:Stock:private] => 5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.74851488
+)
+Stock Object
+(
+    [rank:Stock:private] => 41
+    [symbol:Stock:private] => OSH
+    [company:Stock:private] => Oak Street Health| Inc.
+    [quant:Stock:private] => 4.94
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.16
+    [marketCap:Stock:private] => 8.6971699
+)
+Stock Object
+(
+    [rank:Stock:private] => 42
+    [symbol:Stock:private] => MTW
+    [company:Stock:private] => The Manitowoc Company| Inc.
+    [quant:Stock:private] => 4.94
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 2.9
+    [marketCap:Stock:private] => 0.56662829
+)
+Stock Object
+(
+    [rank:Stock:private] => 43
+    [symbol:Stock:private] => WNC
+    [company:Stock:private] => Wabash National Corporation
+    [quant:Stock:private] => 4.94
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 1.09422566
+)
+Stock Object
+(
+    [rank:Stock:private] => 44
+    [symbol:Stock:private] => OFS
+    [company:Stock:private] => OFS Capital
+    [quant:Stock:private] => 4.93
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 45
+    [symbol:Stock:private] => BDORY
+    [company:Stock:private] => Banco do Brasil S.A.
+    [quant:Stock:private] => 4.93
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 20.192897
+)
+Stock Object
+(
+    [rank:Stock:private] => 46
+    [symbol:Stock:private] => STRL
+    [company:Stock:private] => Sterling Infrastructure| Inc.
+    [quant:Stock:private] => 4.93
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 1.13674726
+)
+Stock Object
+(
+    [rank:Stock:private] => 47
+    [symbol:Stock:private] => SPOK
+    [company:Stock:private] => Spok Holdings| Inc.
+    [quant:Stock:private] => 4.93
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.19137264
+)
+Stock Object
+(
+    [rank:Stock:private] => 48
+    [symbol:Stock:private] => STNG
+    [company:Stock:private] => Scorpio Tankers Inc.
+    [quant:Stock:private] => 4.93
+    [saAuthors:Stock:private] => 2.5
+    [wallStreet:Stock:private] => 4.63
+    [marketCap:Stock:private] => 3.0138711
+)
+Stock Object
+(
+    [rank:Stock:private] => 49
+    [symbol:Stock:private] => ANET
+    [company:Stock:private] => Arista Networks| Inc.
+    [quant:Stock:private] => 4.93
+    [saAuthors:Stock:private] => 3.75
+    [wallStreet:Stock:private] => 4.11
+    [marketCap:Stock:private] => 50.022109
+)
+Stock Object
+(
+    [rank:Stock:private] => 50
+    [symbol:Stock:private] => ALIZY
+    [company:Stock:private] => Allianz SE
+    [quant:Stock:private] => 4.93
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 85.675491
+)
+Stock Object
+(
+    [rank:Stock:private] => 51
+    [symbol:Stock:private] => OI
+    [company:Stock:private] => O-I Glass| Inc.
+    [quant:Stock:private] => 4.92
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.1
+    [marketCap:Stock:private] => 3.23999514
+)
+Stock Object
+(
+    [rank:Stock:private] => 52
+    [symbol:Stock:private] => ASR
+    [company:Stock:private] => Grupo Aeroportuario del Sureste| S. A. B. de C. V.
+    [quant:Stock:private] => 4.92
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.9
+    [marketCap:Stock:private] => 8.5295237
+)
+Stock Object
+(
+    [rank:Stock:private] => 53
+    [symbol:Stock:private] => BDRBF
+    [company:Stock:private] => Bombardier Inc.
+    [quant:Stock:private] => 4.92
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.8
+    [marketCap:Stock:private] => 4.1386025
+)
+Stock Object
+(
+    [rank:Stock:private] => 54
+    [symbol:Stock:private] => INTT
+    [company:Stock:private] => inTEST Corporation
+    [quant:Stock:private] => 4.92
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.190139328
+)
+Stock Object
+(
+    [rank:Stock:private] => 55
+    [symbol:Stock:private] => OMAB
+    [company:Stock:private] => Grupo Aeroportuario del Centro Norte| S.A.B. de C.V.
+    [quant:Stock:private] => 4.92
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.12
+    [marketCap:Stock:private] => 3.96612275
+)
+Stock Object
+(
+    [rank:Stock:private] => 56
+    [symbol:Stock:private] => IBEX
+    [company:Stock:private] => IBEX Limited
+    [quant:Stock:private] => 4.92
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.2
+    [marketCap:Stock:private] => 0.481199744
+)
+Stock Object
+(
+    [rank:Stock:private] => 57
+    [symbol:Stock:private] => VRNA
+    [company:Stock:private] => Verona Pharma plc
+    [quant:Stock:private] => 4.92
+    [saAuthors:Stock:private] => 4.4
+    [wallStreet:Stock:private] => 4.71
+    [marketCap:Stock:private] => 1.46917811
+)
+Stock Object
+(
+    [rank:Stock:private] => 58
+    [symbol:Stock:private] => CPRX
+    [company:Stock:private] => Catalyst Pharmaceuticals| Inc.
+    [quant:Stock:private] => 4.92
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 4.2
+    [marketCap:Stock:private] => 1.6799049
+)
+Stock Object
+(
+    [rank:Stock:private] => 59
+    [symbol:Stock:private] => SCM
+    [company:Stock:private] => Stellus Capital Investment Corporation
+    [quant:Stock:private] => 4.91
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 60
+    [symbol:Stock:private] => SERA
+    [company:Stock:private] => Sera Prognostics| Inc.
+    [quant:Stock:private] => 4.91
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.13182216
+)
+Stock Object
+(
+    [rank:Stock:private] => 61
+    [symbol:Stock:private] => INSW
+    [company:Stock:private] => International Seaways| Inc.
+    [quant:Stock:private] => 4.91
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 4.85
+    [marketCap:Stock:private] => 2.00022144
+)
+Stock Object
+(
+    [rank:Stock:private] => 62
+    [symbol:Stock:private] => SOPH
+    [company:Stock:private] => SOPHiA GENETICS SA
+    [quant:Stock:private] => 4.91
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.2
+    [marketCap:Stock:private] => 0.35008272
+)
+Stock Object
+(
+    [rank:Stock:private] => 63
+    [symbol:Stock:private] => MARUY
+    [company:Stock:private] => Marubeni Corporation
+    [quant:Stock:private] => 4.91
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 22.1637366
+)
+Stock Object
+(
+    [rank:Stock:private] => 64
+    [symbol:Stock:private] => SMCI
+    [company:Stock:private] => Super Micro Computer| Inc.
+    [quant:Stock:private] => 4.91
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 5.1223485
+)
+Stock Object
+(
+    [rank:Stock:private] => 65
+    [symbol:Stock:private] => TA
+    [company:Stock:private] => TravelCenters of America Inc.
+    [quant:Stock:private] => 4.91
+    [saAuthors:Stock:private] => 3.2
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 1.27433075
+)
+Stock Object
+(
+    [rank:Stock:private] => 66
+    [symbol:Stock:private] => MCFT
+    [company:Stock:private] => MasterCraft Boat Holdings| Inc.
+    [quant:Stock:private] => 4.9
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 4.4
+    [marketCap:Stock:private] => 0.54502131
+)
+Stock Object
+(
+    [rank:Stock:private] => 67
+    [symbol:Stock:private] => URI
+    [company:Stock:private] => United Rentals| Inc.
+    [quant:Stock:private] => 4.9
+    [saAuthors:Stock:private] => 3.8
+    [wallStreet:Stock:private] => 3.9
+    [marketCap:Stock:private] => 25.6787087
+)
+Stock Object
+(
+    [rank:Stock:private] => 68
+    [symbol:Stock:private] => OSUR
+    [company:Stock:private] => OraSure Technologies| Inc.
+    [quant:Stock:private] => 4.9
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 3.33
+    [marketCap:Stock:private] => 0.465104512
+)
+Stock Object
+(
+    [rank:Stock:private] => 69
+    [symbol:Stock:private] => MAXN
+    [company:Stock:private] => Maxeon Solar Technologies| Ltd.
+    [quant:Stock:private] => 4.9
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 1.0194169
+)
+Stock Object
+(
+    [rank:Stock:private] => 70
+    [symbol:Stock:private] => FSLY
+    [company:Stock:private] => Fastly| Inc.
+    [quant:Stock:private] => 4.9
+    [saAuthors:Stock:private] => 3.4
+    [wallStreet:Stock:private] => 3.3
+    [marketCap:Stock:private] => 1.93366797
+)
+Stock Object
+(
+    [rank:Stock:private] => 71
+    [symbol:Stock:private] => PBF
+    [company:Stock:private] => PBF Energy Inc.
+    [quant:Stock:private] => 4.9
+    [saAuthors:Stock:private] => 4.25
+    [wallStreet:Stock:private] => 3.71
+    [marketCap:Stock:private] => 5.2500823
+)
+Stock Object
+(
+    [rank:Stock:private] => 72
+    [symbol:Stock:private] => SUMO
+    [company:Stock:private] => Sumo Logic| Inc.
+    [quant:Stock:private] => 4.9
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 1.45542336
+)
+Stock Object
+(
+    [rank:Stock:private] => 73
+    [symbol:Stock:private] => KOF
+    [company:Stock:private] => Coca-Cola FEMSA| S.A.B. de C.V.
+    [quant:Stock:private] => 4.89
+    [saAuthors:Stock:private] => 4.33
+    [wallStreet:Stock:private] => 3.71
+    [marketCap:Stock:private] => 15.6764099
+)
+Stock Object
+(
+    [rank:Stock:private] => 74
+    [symbol:Stock:private] => UAL
+    [company:Stock:private] => United Airlines Holdings| Inc.
+    [quant:Stock:private] => 4.89
+    [saAuthors:Stock:private] => 4.4
+    [wallStreet:Stock:private] => 3.9
+    [marketCap:Stock:private] => 14.0780831
+)
+Stock Object
+(
+    [rank:Stock:private] => 75
+    [symbol:Stock:private] => FLXS
+    [company:Stock:private] => Flexsteel Industries| Inc.
+    [quant:Stock:private] => 4.89
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 0
+    [marketCap:Stock:private] => 0.109864128
+)
+Stock Object
+(
+    [rank:Stock:private] => 76
+    [symbol:Stock:private] => PBSV
+    [company:Stock:private] => Pharma-Bio Serv| Inc.
+    [quant:Stock:private] => 4.89
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 0
+    [marketCap:Stock:private] => 0.026163364
+)
+Stock Object
+(
+    [rank:Stock:private] => 77
+    [symbol:Stock:private] => ATRO
+    [company:Stock:private] => Astronics Corporation
+    [quant:Stock:private] => 4.89
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 0.398868
+)
+Stock Object
+(
+    [rank:Stock:private] => 78
+    [symbol:Stock:private] => TKC
+    [company:Stock:private] => Turkcell Iletisim Hizmetleri A.S.
+    [quant:Stock:private] => 4.89
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 3.66117504
+)
+Stock Object
+(
+    [rank:Stock:private] => 79
+    [symbol:Stock:private] => PUBGY
+    [company:Stock:private] => Publicis Groupe S.A.
+    [quant:Stock:private] => 4.89
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 18.743595
+)
+Stock Object
+(
+    [rank:Stock:private] => 80
+    [symbol:Stock:private] => TME
+    [company:Stock:private] => Tencent Music Entertainment Group
+    [quant:Stock:private] => 4.89
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 13.3826335
+)
+Stock Object
+(
+    [rank:Stock:private] => 81
+    [symbol:Stock:private] => IMMR
+    [company:Stock:private] => Immersion Corporation
+    [quant:Stock:private] => 4.88
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.254659472
+)
+Stock Object
+(
+    [rank:Stock:private] => 82
+    [symbol:Stock:private] => TRIN
+    [company:Stock:private] => Trinity Capital Inc.
+    [quant:Stock:private] => 4.88
+    [saAuthors:Stock:private] => 3.75
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.454679264
+)
+Stock Object
+(
+    [rank:Stock:private] => 83
+    [symbol:Stock:private] => RS
+    [company:Stock:private] => Reliance Steel & Aluminum Co.
+    [quant:Stock:private] => 4.88
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 14.1833974
+)
+Stock Object
+(
+    [rank:Stock:private] => 84
+    [symbol:Stock:private] => FLUX
+    [company:Stock:private] => Flux Power Holdings| Inc.
+    [quant:Stock:private] => 4.88
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 0.08543712
+)
+Stock Object
+(
+    [rank:Stock:private] => 85
+    [symbol:Stock:private] => ADI
+    [company:Stock:private] => Analog Devices| Inc.
+    [quant:Stock:private] => 4.88
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4.19
+    [marketCap:Stock:private] => 94.012686
+)
+Stock Object
+(
+    [rank:Stock:private] => 86
+    [symbol:Stock:private] => FANUY
+    [company:Stock:private] => Fanuc Corporation
+    [quant:Stock:private] => 4.88
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 33.3329818
+)
+Stock Object
+(
+    [rank:Stock:private] => 87
+    [symbol:Stock:private] => CRH
+    [company:Stock:private] => CRH plc
+    [quant:Stock:private] => 4.88
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 35.586306
+)
+Stock Object
+(
+    [rank:Stock:private] => 88
+    [symbol:Stock:private] => VOXX
+    [company:Stock:private] => VOXX International Corporation
+    [quant:Stock:private] => 4.87
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.273769952
+)
+Stock Object
+(
+    [rank:Stock:private] => 89
+    [symbol:Stock:private] => LTMAY
+    [company:Stock:private] => LATAM Airlines Group S.A.
+    [quant:Stock:private] => 4.87
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 4.6474102
+)
+Stock Object
+(
+    [rank:Stock:private] => 90
+    [symbol:Stock:private] => FRO
+    [company:Stock:private] => Frontline plc
+    [quant:Stock:private] => 4.87
+    [saAuthors:Stock:private] => 2.66
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 3.53970381
+)
+Stock Object
+(
+    [rank:Stock:private] => 91
+    [symbol:Stock:private] => ETNB
+    [company:Stock:private] => 89bio| Inc.
+    [quant:Stock:private] => 4.87
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 4.75
+    [marketCap:Stock:private] => 0.64974893
+)
+Stock Object
+(
+    [rank:Stock:private] => 92
+    [symbol:Stock:private] => TNXP
+    [company:Stock:private] => Tonix Pharmaceuticals Holding Corp.
+    [quant:Stock:private] => 4.87
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.037711316
+)
+Stock Object
+(
+    [rank:Stock:private] => 93
+    [symbol:Stock:private] => UMC
+    [company:Stock:private] => United Microelectronics Corporation
+    [quant:Stock:private] => 4.87
+    [saAuthors:Stock:private] => 3.25
+    [wallStreet:Stock:private] => 3.8
+    [marketCap:Stock:private] => 21.7282109
+)
+Stock Object
+(
+    [rank:Stock:private] => 94
+    [symbol:Stock:private] => AGFMF
+    [company:Stock:private] => AGF Management Limited
+    [quant:Stock:private] => 4.87
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.25
+    [marketCap:Stock:private] => 0.435652672
+)
+Stock Object
+(
+    [rank:Stock:private] => 95
+    [symbol:Stock:private] => RELL
+    [company:Stock:private] => Richardson Electronics| Ltd.
+    [quant:Stock:private] => 4.86
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 0
+    [marketCap:Stock:private] => 0.283604896
+)
+Stock Object
+(
+    [rank:Stock:private] => 96
+    [symbol:Stock:private] => BBW
+    [company:Stock:private] => Build-A-Bear Workshop| Inc.
+    [quant:Stock:private] => 4.86
+    [saAuthors:Stock:private] => 4.2
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.335342688
+)
+Stock Object
+(
+    [rank:Stock:private] => 97
+    [symbol:Stock:private] => POWL
+    [company:Stock:private] => Powell Industries| Inc.
+    [quant:Stock:private] => 4.86
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.478476224
+)
+Stock Object
+(
+    [rank:Stock:private] => 98
+    [symbol:Stock:private] => ARCC
+    [company:Stock:private] => Ares Capital
+    [quant:Stock:private] => 4.86
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4.53
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 99
+    [symbol:Stock:private] => CIOXY
+    [company:Stock:private] => Cielo S.A.
+    [quant:Stock:private] => 4.86
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 2.49956224
+)
+Stock Object
+(
+    [rank:Stock:private] => 100
+    [symbol:Stock:private] => CVCO
+    [company:Stock:private] => Cavco Industries| Inc.
+    [quant:Stock:private] => 4.86
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.66
+    [marketCap:Stock:private] => 2.51604352
+)
+Stock Object
+(
+    [rank:Stock:private] => 101
+    [symbol:Stock:private] => ASC
+    [company:Stock:private] => Ardmore Shipping Corporation
+    [quant:Stock:private] => 4.86
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.59396064
+)
+Stock Object
+(
+    [rank:Stock:private] => 102
+    [symbol:Stock:private] => TCOM
+    [company:Stock:private] => Trip.com Group Limited
+    [quant:Stock:private] => 4.85
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 23.520297
+)
+Stock Object
+(
+    [rank:Stock:private] => 103
+    [symbol:Stock:private] => EXTR
+    [company:Stock:private] => Extreme Networks| Inc.
+    [quant:Stock:private] => 4.85
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.57
+    [marketCap:Stock:private] => 2.2761943
+)
+Stock Object
+(
+    [rank:Stock:private] => 104
+    [symbol:Stock:private] => JXN
+    [company:Stock:private] => Jackson Financial Inc.
+    [quant:Stock:private] => 4.85
+    [saAuthors:Stock:private] => 4.42
+    [wallStreet:Stock:private] => 3.4
+    [marketCap:Stock:private] => 2.86255821
+)
+Stock Object
+(
+    [rank:Stock:private] => 105
+    [symbol:Stock:private] => ETON
+    [company:Stock:private] => Eton Pharmaceuticals| Inc.
+    [quant:Stock:private] => 4.85
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.099286424
+)
+Stock Object
+(
+    [rank:Stock:private] => 106
+    [symbol:Stock:private] => CALM
+    [company:Stock:private] => Cal-Maine Foods| Inc.
+    [quant:Stock:private] => 4.85
+    [saAuthors:Stock:private] => 3.2
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 2.6662039
+)
+Stock Object
+(
+    [rank:Stock:private] => 107
+    [symbol:Stock:private] => NSSC
+    [company:Stock:private] => Napco Security Technologies| Inc.
+    [quant:Stock:private] => 4.85
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.8
+    [marketCap:Stock:private] => 1.23245133
+)
+Stock Object
+(
+    [rank:Stock:private] => 108
+    [symbol:Stock:private] => MUFG
+    [company:Stock:private] => Mitsubishi UFJ Financial Group| Inc.
+    [quant:Stock:private] => 4.85
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 74.886193
+)
+Stock Object
+(
+    [rank:Stock:private] => 109
+    [symbol:Stock:private] => RE
+    [company:Stock:private] => Everest Re Group| Ltd.
+    [quant:Stock:private] => 4.85
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.14
+    [marketCap:Stock:private] => 13.0851727
+)
+Stock Object
+(
+    [rank:Stock:private] => 110
+    [symbol:Stock:private] => PAYO
+    [company:Stock:private] => Payoneer Global Inc.
+    [quant:Stock:private] => 4.84
+    [saAuthors:Stock:private] => 4.66
+    [wallStreet:Stock:private] => 4.66
+    [marketCap:Stock:private] => 2.14034803
+)
+Stock Object
+(
+    [rank:Stock:private] => 111
+    [symbol:Stock:private] => OIS
+    [company:Stock:private] => Oil States International| Inc.
+    [quant:Stock:private] => 4.84
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.75
+    [marketCap:Stock:private] => 0.481195744
+)
+Stock Object
+(
+    [rank:Stock:private] => 112
+    [symbol:Stock:private] => PRDO
+    [company:Stock:private] => Perdoceo Education Corporation
+    [quant:Stock:private] => 4.84
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.87462483
+)
+Stock Object
+(
+    [rank:Stock:private] => 113
+    [symbol:Stock:private] => SHIIY
+    [company:Stock:private] => Sinopec Shanghai Petrochemical Company Limited
+    [quant:Stock:private] => 4.84
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 4.27526374
+)
+Stock Object
+(
+    [rank:Stock:private] => 114
+    [symbol:Stock:private] => IGIC
+    [company:Stock:private] => International General Insurance Holdings Ltd.
+    [quant:Stock:private] => 4.84
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.377455872
+)
+Stock Object
+(
+    [rank:Stock:private] => 115
+    [symbol:Stock:private] => IMRX
+    [company:Stock:private] => Immuneering Corporation
+    [quant:Stock:private] => 4.84
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.16
+    [marketCap:Stock:private] => 0.213339392
+)
+Stock Object
+(
+    [rank:Stock:private] => 116
+    [symbol:Stock:private] => SNEX
+    [company:Stock:private] => StoneX Group Inc.
+    [quant:Stock:private] => 4.84
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 1.89410394
+)
+Stock Object
+(
+    [rank:Stock:private] => 117
+    [symbol:Stock:private] => REPX
+    [company:Stock:private] => Riley Exploration Permian| Inc.
+    [quant:Stock:private] => 4.83
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.62895872
+)
+Stock Object
+(
+    [rank:Stock:private] => 118
+    [symbol:Stock:private] => AUPH
+    [company:Stock:private] => Aurinia Pharmaceuticals Inc.
+    [quant:Stock:private] => 4.83
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4.12
+    [marketCap:Stock:private] => 1.35590426
+)
+Stock Object
+(
+    [rank:Stock:private] => 119
+    [symbol:Stock:private] => WCC
+    [company:Stock:private] => WESCO International| Inc.
+    [quant:Stock:private] => 4.83
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 7.0834212
+)
+Stock Object
+(
+    [rank:Stock:private] => 120
+    [symbol:Stock:private] => MLI
+    [company:Stock:private] => Mueller Industries| Inc.
+    [quant:Stock:private] => 4.83
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 4.01910272
+)
+Stock Object
+(
+    [rank:Stock:private] => 121
+    [symbol:Stock:private] => PAC
+    [company:Stock:private] => Grupo Aeroportuario del Pac¡fico| S.A.B. de C.V.
+    [quant:Stock:private] => 4.83
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 8.9377516
+)
+Stock Object
+(
+    [rank:Stock:private] => 122
+    [symbol:Stock:private] => TERN
+    [company:Stock:private] => Terns Pharmaceuticals| Inc.
+    [quant:Stock:private] => 4.83
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.499619744
+)
+Stock Object
+(
+    [rank:Stock:private] => 123
+    [symbol:Stock:private] => TMUS
+    [company:Stock:private] => T-Mobile US| Inc.
+    [quant:Stock:private] => 4.83
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.37
+    [marketCap:Stock:private] => 174
+)
+Stock Object
+(
+    [rank:Stock:private] => 124
+    [symbol:Stock:private] => BKCC
+    [company:Stock:private] => BlackRock Capital Investment Corporation
+    [quant:Stock:private] => 4.82
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 125
+    [symbol:Stock:private] => IFNNY
+    [company:Stock:private] => Infineon Technologies AG
+    [quant:Stock:private] => 4.82
+    [saAuthors:Stock:private] => 4.33
+    [wallStreet:Stock:private] => 4.66
+    [marketCap:Stock:private] => 47.870226
+)
+Stock Object
+(
+    [rank:Stock:private] => 126
+    [symbol:Stock:private] => VLVLY
+    [company:Stock:private] => AB Volvo (publ)
+    [quant:Stock:private] => 4.82
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 38.333288
+)
+Stock Object
+(
+    [rank:Stock:private] => 127
+    [symbol:Stock:private] => PH
+    [company:Stock:private] => Parker-Hannifin Corporation
+    [quant:Stock:private] => 4.82
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 3.9
+    [marketCap:Stock:private] => 39.110877
+)
+Stock Object
+(
+    [rank:Stock:private] => 128
+    [symbol:Stock:private] => ENLAY
+    [company:Stock:private] => Enel SpA
+    [quant:Stock:private] => 4.82
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 57.283531
+)
+Stock Object
+(
+    [rank:Stock:private] => 129
+    [symbol:Stock:private] => FDP
+    [company:Stock:private] => Fresh Del Monte Produce Inc.
+    [quant:Stock:private] => 4.82
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 1.40358682
+)
+Stock Object
+(
+    [rank:Stock:private] => 130
+    [symbol:Stock:private] => TKOMY
+    [company:Stock:private] => Tokio Marine Holdings| Inc.
+    [quant:Stock:private] => 4.82
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 39.147684
+)
+Stock Object
+(
+    [rank:Stock:private] => 131
+    [symbol:Stock:private] => FUPBY
+    [company:Stock:private] => Fuchs Petrolub SE
+    [quant:Stock:private] => 4.82
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 5.0370268
+)
+Stock Object
+(
+    [rank:Stock:private] => 132
+    [symbol:Stock:private] => ENIC
+    [company:Stock:private] => Enel Chile S.A.
+    [quant:Stock:private] => 4.81
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.75
+    [marketCap:Stock:private] => 3.11975501
+)
+Stock Object
+(
+    [rank:Stock:private] => 133
+    [symbol:Stock:private] => DHT
+    [company:Stock:private] => DHT Holdings| Inc.
+    [quant:Stock:private] => 4.81
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.83
+    [marketCap:Stock:private] => 1.6785824
+)
+Stock Object
+(
+    [rank:Stock:private] => 134
+    [symbol:Stock:private] => SKY
+    [company:Stock:private] => Skyline Champion Corporation
+    [quant:Stock:private] => 4.81
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.83
+    [marketCap:Stock:private] => 3.80387891
+)
+Stock Object
+(
+    [rank:Stock:private] => 135
+    [symbol:Stock:private] => DECK
+    [company:Stock:private] => Deckers Outdoor Corporation
+    [quant:Stock:private] => 4.81
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 10.8663409
+)
+Stock Object
+(
+    [rank:Stock:private] => 136
+    [symbol:Stock:private] => CSIQ
+    [company:Stock:private] => Canadian Solar Inc.
+    [quant:Stock:private] => 4.81
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.28
+    [marketCap:Stock:private] => 2.2513367
+)
+Stock Object
+(
+    [rank:Stock:private] => 137
+    [symbol:Stock:private] => LNTH
+    [company:Stock:private] => Lantheus Holdings| Inc.
+    [quant:Stock:private] => 4.81
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.71
+    [marketCap:Stock:private] => 5.308927
+)
+Stock Object
+(
+    [rank:Stock:private] => 138
+    [symbol:Stock:private] => SANM
+    [company:Stock:private] => Sanmina Corporation
+    [quant:Stock:private] => 4.81
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 3.31121408
+)
+Stock Object
+(
+    [rank:Stock:private] => 139
+    [symbol:Stock:private] => BSMX
+    [company:Stock:private] => Banco Santander M‚xico| S.A.| Instituci¢n de Banca M£ltiple| Grupo Financiero Santander M‚xico
+    [quant:Stock:private] => 4.8
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 2.5
+    [marketCap:Stock:private] => 8.6642596
+)
+Stock Object
+(
+    [rank:Stock:private] => 140
+    [symbol:Stock:private] => TRHC
+    [company:Stock:private] => Tabula Rasa HealthCare| Inc.
+    [quant:Stock:private] => 4.8
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.8
+    [marketCap:Stock:private] => 0.135122688
+)
+Stock Object
+(
+    [rank:Stock:private] => 141
+    [symbol:Stock:private] => BANX
+    [company:Stock:private] => ArrowMark Financial Corp
+    [quant:Stock:private] => 4.8
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.150007461
+)
+Stock Object
+(
+    [rank:Stock:private] => 142
+    [symbol:Stock:private] => SLAB
+    [company:Stock:private] => Silicon Laboratories Inc.
+    [quant:Stock:private] => 4.8
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.9
+    [marketCap:Stock:private] => 5.4783104
+)
+Stock Object
+(
+    [rank:Stock:private] => 143
+    [symbol:Stock:private] => ORCC
+    [company:Stock:private] => Owl Rock Capital Corporation
+    [quant:Stock:private] => 4.8
+    [saAuthors:Stock:private] => 4.33
+    [wallStreet:Stock:private] => 4.27
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 144
+    [symbol:Stock:private] => QABSY
+    [company:Stock:private] => Qantas Airways Limited
+    [quant:Stock:private] => 4.8
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 7.8369188
+)
+Stock Object
+(
+    [rank:Stock:private] => 145
+    [symbol:Stock:private] => BURBY
+    [company:Stock:private] => Burberry Group plc
+    [quant:Stock:private] => 4.8
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 10.3519601
+)
+Stock Object
+(
+    [rank:Stock:private] => 146
+    [symbol:Stock:private] => HURN
+    [company:Stock:private] => Huron Consulting Group Inc.
+    [quant:Stock:private] => 4.79
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.75
+    [marketCap:Stock:private] => 1.3428759
+)
+Stock Object
+(
+    [rank:Stock:private] => 147
+    [symbol:Stock:private] => STT
+    [company:Stock:private] => State Street Corporation
+    [quant:Stock:private] => 4.79
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 3.77
+    [marketCap:Stock:private] => 24.7232307
+)
+Stock Object
+(
+    [rank:Stock:private] => 148
+    [symbol:Stock:private] => VPG
+    [company:Stock:private] => Vishay Precision Group| Inc.
+    [quant:Stock:private] => 4.79
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.53986522
+)
+Stock Object
+(
+    [rank:Stock:private] => 149
+    [symbol:Stock:private] => WMMVY
+    [company:Stock:private] => Wal-Mart de M‚xico| S.A.B. de C.V.
+    [quant:Stock:private] => 4.79
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 65.61117
+)
+Stock Object
+(
+    [rank:Stock:private] => 150
+    [symbol:Stock:private] => GHI
+    [company:Stock:private] => Greystone Housing Impact Investors LP
+    [quant:Stock:private] => 4.79
+    [saAuthors:Stock:private] => 2
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.37880576
+)
+Stock Object
+(
+    [rank:Stock:private] => 151
+    [symbol:Stock:private] => LZB
+    [company:Stock:private] => La-Z-Boy Incorporated
+    [quant:Stock:private] => 4.79
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 1.23338445
+)
+Stock Object
+(
+    [rank:Stock:private] => 152
+    [symbol:Stock:private] => BWEN
+    [company:Stock:private] => Broadwind| Inc.
+    [quant:Stock:private] => 4.79
+    [saAuthors:Stock:private] => 2
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.070066728
+)
+Stock Object
+(
+    [rank:Stock:private] => 153
+    [symbol:Stock:private] => ASBFY
+    [company:Stock:private] => Associated British Foods plc
+    [quant:Stock:private] => 4.78
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 18.0263936
+)
+Stock Object
+(
+    [rank:Stock:private] => 154
+    [symbol:Stock:private] => HGBL
+    [company:Stock:private] => Heritage Global Inc.
+    [quant:Stock:private] => 4.78
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.0994264
+)
+Stock Object
+(
+    [rank:Stock:private] => 155
+    [symbol:Stock:private] => RYAM
+    [company:Stock:private] => Rayonier Advanced Materials Inc.
+    [quant:Stock:private] => 4.78
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 2.5
+    [marketCap:Stock:private] => 0.385836448
+)
+Stock Object
+(
+    [rank:Stock:private] => 156
+    [symbol:Stock:private] => MCHP
+    [company:Stock:private] => Microchip Technology Incorporated
+    [quant:Stock:private] => 4.78
+    [saAuthors:Stock:private] => 4.25
+    [wallStreet:Stock:private] => 4.08
+    [marketCap:Stock:private] => 44.212605
+)
+Stock Object
+(
+    [rank:Stock:private] => 157
+    [symbol:Stock:private] => VEOEY
+    [company:Stock:private] => Veolia Environnement S.A.
+    [quant:Stock:private] => 4.78
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 19.7680579
+)
+Stock Object
+(
+    [rank:Stock:private] => 158
+    [symbol:Stock:private] => GLAD
+    [company:Stock:private] => Gladstone Capital
+    [quant:Stock:private] => 4.78
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 159
+    [symbol:Stock:private] => AMPH
+    [company:Stock:private] => Amphastar Pharmaceuticals| Inc.
+    [quant:Stock:private] => 4.78
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.83
+    [marketCap:Stock:private] => 1.73865459
+)
+Stock Object
+(
+    [rank:Stock:private] => 160
+    [symbol:Stock:private] => ETD
+    [company:Stock:private] => Ethan Allen Interiors Inc.
+    [quant:Stock:private] => 4.78
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 0.66816678
+)
+Stock Object
+(
+    [rank:Stock:private] => 161
+    [symbol:Stock:private] => BWMX
+    [company:Stock:private] => Betterware de M‚xico| S.A.P.I. de C.V.
+    [quant:Stock:private] => 4.77
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.407123872
+)
+Stock Object
+(
+    [rank:Stock:private] => 162
+    [symbol:Stock:private] => ANYYY
+    [company:Stock:private] => Aena S.M.E.| S.A.
+    [quant:Stock:private] => 4.77
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 22.7791401
+)
+Stock Object
+(
+    [rank:Stock:private] => 163
+    [symbol:Stock:private] => PFGC
+    [company:Stock:private] => Performance Food Group Company
+    [quant:Stock:private] => 4.77
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.4
+    [marketCap:Stock:private] => 8.5127726
+)
+Stock Object
+(
+    [rank:Stock:private] => 164
+    [symbol:Stock:private] => TPVG
+    [company:Stock:private] => TriplePoint Venture Growth
+    [quant:Stock:private] => 4.77
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 165
+    [symbol:Stock:private] => PLRX
+    [company:Stock:private] => Pliant Therapeutics| Inc.
+    [quant:Stock:private] => 4.77
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.58
+    [marketCap:Stock:private] => 1.59726502
+)
+Stock Object
+(
+    [rank:Stock:private] => 166
+    [symbol:Stock:private] => SXC
+    [company:Stock:private] => SunCoke Energy| Inc.
+    [quant:Stock:private] => 4.77
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.70817485
+)
+Stock Object
+(
+    [rank:Stock:private] => 167
+    [symbol:Stock:private] => GPK
+    [company:Stock:private] => Graphic Packaging Holding Company
+    [quant:Stock:private] => 4.77
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.69
+    [marketCap:Stock:private] => 7.159017
+)
+Stock Object
+(
+    [rank:Stock:private] => 168
+    [symbol:Stock:private] => HTHIY
+    [company:Stock:private] => Hitachi| Ltd.
+    [quant:Stock:private] => 4.76
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 48.622125
+)
+Stock Object
+(
+    [rank:Stock:private] => 169
+    [symbol:Stock:private] => TBBK
+    [company:Stock:private] => The Bancorp| Inc.
+    [quant:Stock:private] => 4.76
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 1.66312909
+)
+Stock Object
+(
+    [rank:Stock:private] => 170
+    [symbol:Stock:private] => AAL
+    [company:Stock:private] => American Airlines Group Inc.
+    [quant:Stock:private] => 4.76
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.23
+    [marketCap:Stock:private] => 9.1069983
+)
+Stock Object
+(
+    [rank:Stock:private] => 171
+    [symbol:Stock:private] => PSX
+    [company:Stock:private] => Phillips 66
+    [quant:Stock:private] => 4.76
+    [saAuthors:Stock:private] => 3.85
+    [wallStreet:Stock:private] => 3.89
+    [marketCap:Stock:private] => 43.941286
+)
+Stock Object
+(
+    [rank:Stock:private] => 172
+    [symbol:Stock:private] => BK
+    [company:Stock:private] => The Bank of New York Mellon Corporation
+    [quant:Stock:private] => 4.76
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 3.83
+    [marketCap:Stock:private] => 34.0502016
+)
+Stock Object
+(
+    [rank:Stock:private] => 173
+    [symbol:Stock:private] => BRZE
+    [company:Stock:private] => Braze| Inc.
+    [quant:Stock:private] => 4.76
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 4.26
+    [marketCap:Stock:private] => 2.98986803
+)
+Stock Object
+(
+    [rank:Stock:private] => 174
+    [symbol:Stock:private] => CAAP
+    [company:Stock:private] => Corporaci¢n Am‚rica Airports S.A.
+    [quant:Stock:private] => 4.76
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 1.49028403
+)
+Stock Object
+(
+    [rank:Stock:private] => 175
+    [symbol:Stock:private] => AVNW
+    [company:Stock:private] => Aviat Networks| Inc.
+    [quant:Stock:private] => 4.75
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.6
+    [marketCap:Stock:private] => 0.39028768
+)
+Stock Object
+(
+    [rank:Stock:private] => 176
+    [symbol:Stock:private] => HEINY
+    [company:Stock:private] => Heineken N.V.
+    [quant:Stock:private] => 4.75
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 57.582793
+)
+Stock Object
+(
+    [rank:Stock:private] => 177
+    [symbol:Stock:private] => NHYDY
+    [company:Stock:private] => Norsk Hydro ASA
+    [quant:Stock:private] => 4.75
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 13.543978
+)
+Stock Object
+(
+    [rank:Stock:private] => 178
+    [symbol:Stock:private] => VIRC
+    [company:Stock:private] => Virco Mfg. Corporation
+    [quant:Stock:private] => 4.75
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.06354706
+)
+Stock Object
+(
+    [rank:Stock:private] => 179
+    [symbol:Stock:private] => LMNR
+    [company:Stock:private] => Limoneira Company
+    [quant:Stock:private] => 4.75
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.4
+    [marketCap:Stock:private] => 0.275661152
+)
+Stock Object
+(
+    [rank:Stock:private] => 180
+    [symbol:Stock:private] => RSKD
+    [company:Stock:private] => Riskified Ltd.
+    [quant:Stock:private] => 4.75
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.87
+    [marketCap:Stock:private] => 0.93776819
+)
+Stock Object
+(
+    [rank:Stock:private] => 181
+    [symbol:Stock:private] => CAT
+    [company:Stock:private] => Caterpillar Inc.
+    [quant:Stock:private] => 4.75
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 3.44
+    [marketCap:Stock:private] => 111
+)
+Stock Object
+(
+    [rank:Stock:private] => 182
+    [symbol:Stock:private] => LRN
+    [company:Stock:private] => Stride| Inc.
+    [quant:Stock:private] => 4.75
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.2
+    [marketCap:Stock:private] => 1.62578778
+)
+Stock Object
+(
+    [rank:Stock:private] => 183
+    [symbol:Stock:private] => IH
+    [company:Stock:private] => iHuman Inc.
+    [quant:Stock:private] => 4.74
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.16288416
+)
+Stock Object
+(
+    [rank:Stock:private] => 184
+    [symbol:Stock:private] => MFC
+    [company:Stock:private] => Manulife Financial Corporation
+    [quant:Stock:private] => 4.74
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 3.25
+    [marketCap:Stock:private] => 32.5383516
+)
+Stock Object
+(
+    [rank:Stock:private] => 185
+    [symbol:Stock:private] => MGDDY
+    [company:Stock:private] => Compagnie G‚n‚rale des tablissements Michelin Soci‚t‚ en commandite par actions
+    [quant:Stock:private] => 4.74
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 20.6840443
+)
+Stock Object
+(
+    [rank:Stock:private] => 186
+    [symbol:Stock:private] => CAAS
+    [company:Stock:private] => China Automotive Systems| Inc.
+    [quant:Stock:private] => 4.74
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.168190752
+)
+Stock Object
+(
+    [rank:Stock:private] => 187
+    [symbol:Stock:private] => DRCT
+    [company:Stock:private] => Direct Digital Holdings| Inc.
+    [quant:Stock:private] => 4.74
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.75
+    [marketCap:Stock:private] => 0.0582486
+)
+Stock Object
+(
+    [rank:Stock:private] => 188
+    [symbol:Stock:private] => SXI
+    [company:Stock:private] => Standex International Corporation
+    [quant:Stock:private] => 4.74
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 1.36425075
+)
+Stock Object
+(
+    [rank:Stock:private] => 189
+    [symbol:Stock:private] => TYRA
+    [company:Stock:private] => Tyra Biosciences| Inc.
+    [quant:Stock:private] => 4.74
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.8
+    [marketCap:Stock:private] => 0.63950016
+)
+Stock Object
+(
+    [rank:Stock:private] => 190
+    [symbol:Stock:private] => EBF
+    [company:Stock:private] => Ennis| Inc.
+    [quant:Stock:private] => 4.73
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.54850662
+)
+Stock Object
+(
+    [rank:Stock:private] => 191
+    [symbol:Stock:private] => SMGZY
+    [company:Stock:private] => Smiths Group plc
+    [quant:Stock:private] => 4.73
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 2.5
+    [marketCap:Stock:private] => 7.1790633
+)
+Stock Object
+(
+    [rank:Stock:private] => 192
+    [symbol:Stock:private] => PRNDY
+    [company:Stock:private] => Pernod Ricard SA
+    [quant:Stock:private] => 4.73
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 54.37039
+)
+Stock Object
+(
+    [rank:Stock:private] => 193
+    [symbol:Stock:private] => AFL
+    [company:Stock:private] => Aflac Incorporated
+    [quant:Stock:private] => 4.73
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 3.15
+    [marketCap:Stock:private] => 37.522268
+)
+Stock Object
+(
+    [rank:Stock:private] => 194
+    [symbol:Stock:private] => BRDCY
+    [company:Stock:private] => Bridgestone Corporation
+    [quant:Stock:private] => 4.73
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 26.2660956
+)
+Stock Object
+(
+    [rank:Stock:private] => 195
+    [symbol:Stock:private] => CECO
+    [company:Stock:private] => CECO Environmental Corp.
+    [quant:Stock:private] => 4.73
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.4
+    [marketCap:Stock:private] => 0.455720096
+)
+Stock Object
+(
+    [rank:Stock:private] => 196
+    [symbol:Stock:private] => CCAP
+    [company:Stock:private] => Crescent Capital BDC| Inc.
+    [quant:Stock:private] => 4.73
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.66
+    [marketCap:Stock:private] => 0.498109824
+)
+Stock Object
+(
+    [rank:Stock:private] => 197
+    [symbol:Stock:private] => EDU
+    [company:Stock:private] => New Oriental Education & Technology Group Inc.
+    [quant:Stock:private] => 4.72
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.28
+    [marketCap:Stock:private] => 6.0276859
+)
+Stock Object
+(
+    [rank:Stock:private] => 198
+    [symbol:Stock:private] => AGESY
+    [company:Stock:private] => ageas SA/NV
+    [quant:Stock:private] => 4.72
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 7.4700483
+)
+Stock Object
+(
+    [rank:Stock:private] => 199
+    [symbol:Stock:private] => EDPFY
+    [company:Stock:private] => EDP - Energias de Portugal| S.A.
+    [quant:Stock:private] => 4.72
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 19.9899873
+)
+Stock Object
+(
+    [rank:Stock:private] => 200
+    [symbol:Stock:private] => NABZY
+    [company:Stock:private] => National Australia Bank Limited
+    [quant:Stock:private] => 4.72
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 59.250754
+)
+Stock Object
+(
+    [rank:Stock:private] => 201
+    [symbol:Stock:private] => CRD.A
+    [company:Stock:private] => Crawford & Company
+    [quant:Stock:private] => 4.72
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.350637472
+)
+Stock Object
+(
+    [rank:Stock:private] => 202
+    [symbol:Stock:private] => KMTUY
+    [company:Stock:private] => Komatsu Ltd.
+    [quant:Stock:private] => 4.72
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 22.6882294
+)
+Stock Object
+(
+    [rank:Stock:private] => 203
+    [symbol:Stock:private] => ICAGY
+    [company:Stock:private] => International Consolidated Airlines Group S.A.
+    [quant:Stock:private] => 4.72
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 8.0359281
+)
+Stock Object
+(
+    [rank:Stock:private] => 204
+    [symbol:Stock:private] => HLX
+    [company:Stock:private] => Helix Energy Solutions Group| Inc.
+    [quant:Stock:private] => 4.71
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4.14
+    [marketCap:Stock:private] => 1.09702976
+)
+Stock Object
+(
+    [rank:Stock:private] => 205
+    [symbol:Stock:private] => FSK
+    [company:Stock:private] => FS KKR Capital Corp
+    [quant:Stock:private] => 4.71
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 206
+    [symbol:Stock:private] => AMADY
+    [company:Stock:private] => Amadeus IT Group| S.A.
+    [quant:Stock:private] => 4.71
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 27.9891108
+)
+Stock Object
+(
+    [rank:Stock:private] => 207
+    [symbol:Stock:private] => TACT
+    [company:Stock:private] => TransAct Technologies Incorporated
+    [quant:Stock:private] => 4.71
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.066902848
+)
+Stock Object
+(
+    [rank:Stock:private] => 208
+    [symbol:Stock:private] => ATGE
+    [company:Stock:private] => Adtalem Global Education Inc.
+    [quant:Stock:private] => 4.71
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.33
+    [marketCap:Stock:private] => 1.6548631
+)
+Stock Object
+(
+    [rank:Stock:private] => 209
+    [symbol:Stock:private] => NJR
+    [company:Stock:private] => New Jersey Resources Corporation
+    [quant:Stock:private] => 4.71
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.3
+    [marketCap:Stock:private] => 5.0488335
+)
+Stock Object
+(
+    [rank:Stock:private] => 210
+    [symbol:Stock:private] => KT
+    [company:Stock:private] => KT Corporation
+    [quant:Stock:private] => 4.71
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 5.6096963
+)
+Stock Object
+(
+    [rank:Stock:private] => 211
+    [symbol:Stock:private] => CRD.B
+    [company:Stock:private] => Crawford & Company
+    [quant:Stock:private] => 4.71
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.350637472
+)
+Stock Object
+(
+    [rank:Stock:private] => 212
+    [symbol:Stock:private] => RVNC
+    [company:Stock:private] => Revance Therapeutics| Inc.
+    [quant:Stock:private] => 4.7
+    [saAuthors:Stock:private] => 5
+    [wallStreet:Stock:private] => 4.07
+    [marketCap:Stock:private] => 2.66037478
+)
+Stock Object
+(
+    [rank:Stock:private] => 213
+    [symbol:Stock:private] => COCO
+    [company:Stock:private] => The Vita Coco Company| Inc.
+    [quant:Stock:private] => 4.7
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.57
+    [marketCap:Stock:private] => 0.97074682
+)
+Stock Object
+(
+    [rank:Stock:private] => 214
+    [symbol:Stock:private] => SAR
+    [company:Stock:private] => Saratoga Investment Corp
+    [quant:Stock:private] => 4.7
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.71
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 215
+    [symbol:Stock:private] => AGM
+    [company:Stock:private] => Federal Agricultural Mortgage Corporation
+    [quant:Stock:private] => 4.7
+    [saAuthors:Stock:private] => 5
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 1.34576806
+)
+Stock Object
+(
+    [rank:Stock:private] => 216
+    [symbol:Stock:private] => MBIN
+    [company:Stock:private] => Merchants Bancorp
+    [quant:Stock:private] => 4.7
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 1.1387735
+)
+Stock Object
+(
+    [rank:Stock:private] => 217
+    [symbol:Stock:private] => AZPN
+    [company:Stock:private] => Aspen Technology| Inc.
+    [quant:Stock:private] => 4.7
+    [saAuthors:Stock:private] => 2.5
+    [wallStreet:Stock:private] => 3.88
+    [marketCap:Stock:private] => 12.9212211
+)
+Stock Object
+(
+    [rank:Stock:private] => 218
+    [symbol:Stock:private] => TS
+    [company:Stock:private] => Tenaris S.A.
+    [quant:Stock:private] => 4.7
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.18
+    [marketCap:Stock:private] => 16.6435932
+)
+Stock Object
+(
+    [rank:Stock:private] => 219
+    [symbol:Stock:private] => GEL
+    [company:Stock:private] => Genesis Energy| L.P.
+    [quant:Stock:private] => 4.69
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 1.36430669
+)
+Stock Object
+(
+    [rank:Stock:private] => 220
+    [symbol:Stock:private] => RL
+    [company:Stock:private] => Ralph Lauren Corporation
+    [quant:Stock:private] => 4.69
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 3.7
+    [marketCap:Stock:private] => 7.3184323
+)
+Stock Object
+(
+    [rank:Stock:private] => 221
+    [symbol:Stock:private] => FGEN
+    [company:Stock:private] => FibroGen| Inc.
+    [quant:Stock:private] => 4.69
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.57
+    [marketCap:Stock:private] => 1.87915379
+)
+Stock Object
+(
+    [rank:Stock:private] => 222
+    [symbol:Stock:private] => TEX
+    [company:Stock:private] => Terex Corporation
+    [quant:Stock:private] => 4.69
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 3.7
+    [marketCap:Stock:private] => 3.05842509
+)
+Stock Object
+(
+    [rank:Stock:private] => 223
+    [symbol:Stock:private] => AZO
+    [company:Stock:private] => AutoZone| Inc.
+    [quant:Stock:private] => 4.69
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 4.03
+    [marketCap:Stock:private] => 43.674456
+)
+Stock Object
+(
+    [rank:Stock:private] => 224
+    [symbol:Stock:private] => ITI
+    [company:Stock:private] => Iteris| Inc.
+    [quant:Stock:private] => 4.69
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.195806352
+)
+Stock Object
+(
+    [rank:Stock:private] => 225
+    [symbol:Stock:private] => DBSDY
+    [company:Stock:private] => DBS Group Holdings Ltd
+    [quant:Stock:private] => 4.69
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 62.572245
+)
+Stock Object
+(
+    [rank:Stock:private] => 226
+    [symbol:Stock:private] => CPA
+    [company:Stock:private] => Copa Holdings| S.A.
+    [quant:Stock:private] => 4.68
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.46
+    [marketCap:Stock:private] => 3.39898086
+)
+Stock Object
+(
+    [rank:Stock:private] => 227
+    [symbol:Stock:private] => PACB
+    [company:Stock:private] => Pacific Biosciences of California| Inc.
+    [quant:Stock:private] => 4.68
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 2.05075878
+)
+Stock Object
+(
+    [rank:Stock:private] => 228
+    [symbol:Stock:private] => DRD
+    [company:Stock:private] => DRDGOLD Limited
+    [quant:Stock:private] => 4.68
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.71867782
+)
+Stock Object
+(
+    [rank:Stock:private] => 229
+    [symbol:Stock:private] => ALFVY
+    [company:Stock:private] => Alfa Laval Corporate AB
+    [quant:Stock:private] => 4.68
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 13.167617
+)
+Stock Object
+(
+    [rank:Stock:private] => 230
+    [symbol:Stock:private] => TAST
+    [company:Stock:private] => Carrols Restaurant Group| Inc.
+    [quant:Stock:private] => 4.68
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.114233984
+)
+Stock Object
+(
+    [rank:Stock:private] => 231
+    [symbol:Stock:private] => DNOW
+    [company:Stock:private] => NOW Inc.
+    [quant:Stock:private] => 4.68
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 1.11098957
+)
+Stock Object
+(
+    [rank:Stock:private] => 232
+    [symbol:Stock:private] => YSG
+    [company:Stock:private] => Yatsen Holding Limited
+    [quant:Stock:private] => 4.68
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 0.86095635
+)
+Stock Object
+(
+    [rank:Stock:private] => 233
+    [symbol:Stock:private] => SLRC
+    [company:Stock:private] => SLR Investment Corp.
+    [quant:Stock:private] => 4.67
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.44
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 234
+    [symbol:Stock:private] => POST
+    [company:Stock:private] => Post Holdings| Inc.
+    [quant:Stock:private] => 4.67
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.8
+    [marketCap:Stock:private] => 5.0027919
+)
+Stock Object
+(
+    [rank:Stock:private] => 235
+    [symbol:Stock:private] => IX
+    [company:Stock:private] => ORIX Corporation
+    [quant:Stock:private] => 4.67
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 19.1286579
+)
+Stock Object
+(
+    [rank:Stock:private] => 236
+    [symbol:Stock:private] => ODP
+    [company:Stock:private] => The ODP Corporation
+    [quant:Stock:private] => 4.67
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 1.79545101
+)
+Stock Object
+(
+    [rank:Stock:private] => 237
+    [symbol:Stock:private] => FOUR
+    [company:Stock:private] => Shift4 Payments| Inc.
+    [quant:Stock:private] => 4.67
+    [saAuthors:Stock:private] => 4.33
+    [wallStreet:Stock:private] => 4.25
+    [marketCap:Stock:private] => 5.6172498
+)
+Stock Object
+(
+    [rank:Stock:private] => 238
+    [symbol:Stock:private] => NECB
+    [company:Stock:private] => Northeast Community Bancorp| Inc.
+    [quant:Stock:private] => 4.67
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.200078656
+)
+Stock Object
+(
+    [rank:Stock:private] => 239
+    [symbol:Stock:private] => ATI
+    [company:Stock:private] => ATI Inc.
+    [quant:Stock:private] => 4.67
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.71
+    [marketCap:Stock:private] => 4.6505841
+)
+Stock Object
+(
+    [rank:Stock:private] => 240
+    [symbol:Stock:private] => STBA
+    [company:Stock:private] => S&T Bancorp| Inc.
+    [quant:Stock:private] => 4.67
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 1.26978278
+)
+Stock Object
+(
+    [rank:Stock:private] => 241
+    [symbol:Stock:private] => HCP
+    [company:Stock:private] => HashiCorp| Inc.
+    [quant:Stock:private] => 4.66
+    [saAuthors:Stock:private] => 2.5
+    [wallStreet:Stock:private] => 4.05
+    [marketCap:Stock:private] => 5.6496481
+)
+Stock Object
+(
+    [rank:Stock:private] => 242
+    [symbol:Stock:private] => MGI
+    [company:Stock:private] => MoneyGram International| Inc.
+    [quant:Stock:private] => 4.66
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 1.02907149
+)
+Stock Object
+(
+    [rank:Stock:private] => 243
+    [symbol:Stock:private] => PAYS
+    [company:Stock:private] => PaySign| Inc.
+    [quant:Stock:private] => 4.66
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.189133888
+)
+Stock Object
+(
+    [rank:Stock:private] => 244
+    [symbol:Stock:private] => TDG
+    [company:Stock:private] => TransDigm Group Incorporated
+    [quant:Stock:private] => 4.66
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 4.11
+    [marketCap:Stock:private] => 37.721801
+)
+Stock Object
+(
+    [rank:Stock:private] => 245
+    [symbol:Stock:private] => TWLO
+    [company:Stock:private] => Twilio Inc.
+    [quant:Stock:private] => 4.66
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.82
+    [marketCap:Stock:private] => 11.7720914
+)
+Stock Object
+(
+    [rank:Stock:private] => 246
+    [symbol:Stock:private] => CIEN
+    [company:Stock:private] => Ciena Corporation
+    [quant:Stock:private] => 4.66
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.31
+    [marketCap:Stock:private] => 7.3744589
+)
+Stock Object
+(
+    [rank:Stock:private] => 247
+    [symbol:Stock:private] => BBIO
+    [company:Stock:private] => BridgeBio Pharma| Inc.
+    [quant:Stock:private] => 4.66
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 4.7
+    [marketCap:Stock:private] => 2.17066368
+)
+Stock Object
+(
+    [rank:Stock:private] => 248
+    [symbol:Stock:private] => GBOOY
+    [company:Stock:private] => Grupo Financiero Banorte| S.A.B. de C.V.
+    [quant:Stock:private] => 4.65
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 21.7999319
+)
+Stock Object
+(
+    [rank:Stock:private] => 249
+    [symbol:Stock:private] => DPRO
+    [company:Stock:private] => Draganfly Inc.
+    [quant:Stock:private] => 4.65
+    [saAuthors:Stock:private] => 1
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.064703004
+)
+Stock Object
+(
+    [rank:Stock:private] => 250
+    [symbol:Stock:private] => OKTA
+    [company:Stock:private] => Okta| Inc.
+    [quant:Stock:private] => 4.65
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.92
+    [marketCap:Stock:private] => 13.5207578
+)
+Stock Object
+(
+    [rank:Stock:private] => 251
+    [symbol:Stock:private] => MNDY
+    [company:Stock:private] => monday.com Ltd.
+    [quant:Stock:private] => 4.65
+    [saAuthors:Stock:private] => 4.4
+    [wallStreet:Stock:private] => 4.41
+    [marketCap:Stock:private] => 6.4813701
+)
+Stock Object
+(
+    [rank:Stock:private] => 252
+    [symbol:Stock:private] => CGBD
+    [company:Stock:private] => Carlyle Secured Lending Inc.
+    [quant:Stock:private] => 4.65
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.8
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 253
+    [symbol:Stock:private] => BBGI
+    [company:Stock:private] => Beasley Broadcast Group| Inc.
+    [quant:Stock:private] => 4.65
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.02984532
+)
+Stock Object
+(
+    [rank:Stock:private] => 254
+    [symbol:Stock:private] => CNO
+    [company:Stock:private] => CNO Financial Group| Inc.
+    [quant:Stock:private] => 4.65
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.16
+    [marketCap:Stock:private] => 2.3963543
+)
+Stock Object
+(
+    [rank:Stock:private] => 255
+    [symbol:Stock:private] => PTMN
+    [company:Stock:private] => Portman Ridge Finance Corporation
+    [quant:Stock:private] => 4.64
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 256
+    [symbol:Stock:private] => FMX
+    [company:Stock:private] => Fomento Econ¢mico Mexicano| S.A.B. de C.V.
+    [quant:Stock:private] => 4.64
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.9
+    [marketCap:Stock:private] => 28.5294592
+)
+Stock Object
+(
+    [rank:Stock:private] => 257
+    [symbol:Stock:private] => MORF
+    [company:Stock:private] => Morphic Holding| Inc.
+    [quant:Stock:private] => 4.64
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.77
+    [marketCap:Stock:private] => 1.65331763
+)
+Stock Object
+(
+    [rank:Stock:private] => 258
+    [symbol:Stock:private] => APEN
+    [company:Stock:private] => Apollo Endosurgery| Inc.
+    [quant:Stock:private] => 4.64
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 0.46978576
+)
+Stock Object
+(
+    [rank:Stock:private] => 259
+    [symbol:Stock:private] => ASHTY
+    [company:Stock:private] => Ashtead Group plc
+    [quant:Stock:private] => 4.64
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 25.9185275
+)
+Stock Object
+(
+    [rank:Stock:private] => 260
+    [symbol:Stock:private] => GERN
+    [company:Stock:private] => Geron Corporation
+    [quant:Stock:private] => 4.64
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.66
+    [marketCap:Stock:private] => 1.2870679
+)
+Stock Object
+(
+    [rank:Stock:private] => 261
+    [symbol:Stock:private] => CAJPY
+    [company:Stock:private] => Canon Inc.
+    [quant:Stock:private] => 4.64
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 22.1964861
+)
+Stock Object
+(
+    [rank:Stock:private] => 262
+    [symbol:Stock:private] => GOOG
+    [company:Stock:private] => Alphabet Inc.
+    [quant:Stock:private] => 4.64
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 4.52
+    [marketCap:Stock:private] => 1310
+)
+Stock Object
+(
+    [rank:Stock:private] => 263
+    [symbol:Stock:private] => KRKR
+    [company:Stock:private] => 36Kr Holdings Inc.
+    [quant:Stock:private] => 4.63
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.041835024
+)
+Stock Object
+(
+    [rank:Stock:private] => 264
+    [symbol:Stock:private] => IRMD
+    [company:Stock:private] => IRadimed Corporation
+    [quant:Stock:private] => 4.63
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.475520928
+)
+Stock Object
+(
+    [rank:Stock:private] => 265
+    [symbol:Stock:private] => ISBA
+    [company:Stock:private] => Isabella Bank Corporation
+    [quant:Stock:private] => 4.63
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.167182208
+)
+Stock Object
+(
+    [rank:Stock:private] => 266
+    [symbol:Stock:private] => GOOGL
+    [company:Stock:private] => Alphabet Inc.
+    [quant:Stock:private] => 4.63
+    [saAuthors:Stock:private] => 3.75
+    [wallStreet:Stock:private] => 4.52
+    [marketCap:Stock:private] => 1310
+)
+Stock Object
+(
+    [rank:Stock:private] => 267
+    [symbol:Stock:private] => APELY
+    [company:Stock:private] => Alps Alpine Co.| Ltd.
+    [quant:Stock:private] => 4.63
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 1.95840397
+)
+Stock Object
+(
+    [rank:Stock:private] => 268
+    [symbol:Stock:private] => BIDU
+    [company:Stock:private] => Baidu| Inc.
+    [quant:Stock:private] => 4.63
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.43
+    [marketCap:Stock:private] => 50.739327
+)
+Stock Object
+(
+    [rank:Stock:private] => 269
+    [symbol:Stock:private] => ARKAY
+    [company:Stock:private] => Arkema S.A.
+    [quant:Stock:private] => 4.63
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 7.0413599
+)
+Stock Object
+(
+    [rank:Stock:private] => 270
+    [symbol:Stock:private] => LSAK
+    [company:Stock:private] => Lesaka Technologies| Inc.
+    [quant:Stock:private] => 4.62
+    [saAuthors:Stock:private] => 5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.256598
+)
+Stock Object
+(
+    [rank:Stock:private] => 271
+    [symbol:Stock:private] => KNBWY
+    [company:Stock:private] => Kirin Holdings Company| Limited
+    [quant:Stock:private] => 4.62
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 12.7310285
+)
+Stock Object
+(
+    [rank:Stock:private] => 272
+    [symbol:Stock:private] => GLYC
+    [company:Stock:private] => GlycoMimetics| Inc.
+    [quant:Stock:private] => 4.62
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.66
+    [marketCap:Stock:private] => 0.07339352
+)
+Stock Object
+(
+    [rank:Stock:private] => 273
+    [symbol:Stock:private] => FYBR
+    [company:Stock:private] => Frontier Communications Parent| Inc.
+    [quant:Stock:private] => 4.62
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 5.648172
+)
+Stock Object
+(
+    [rank:Stock:private] => 274
+    [symbol:Stock:private] => LCNB
+    [company:Stock:private] => LCNB Corp.
+    [quant:Stock:private] => 4.62
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.186910064
+)
+Stock Object
+(
+    [rank:Stock:private] => 275
+    [symbol:Stock:private] => SPKKY
+    [company:Stock:private] => Spark New Zealand Limited
+    [quant:Stock:private] => 4.62
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 5.6989455
+)
+Stock Object
+(
+    [rank:Stock:private] => 276
+    [symbol:Stock:private] => AFLYY
+    [company:Stock:private] => Air France-KLM SA
+    [quant:Stock:private] => 4.62
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 4.3059604
+)
+Stock Object
+(
+    [rank:Stock:private] => 277
+    [symbol:Stock:private] => WRDLY
+    [company:Stock:private] => Worldline SA
+    [quant:Stock:private] => 4.61
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 11.4036306
+)
+Stock Object
+(
+    [rank:Stock:private] => 278
+    [symbol:Stock:private] => FLGT
+    [company:Stock:private] => Fulgent Genetics| Inc.
+    [quant:Stock:private] => 4.61
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 0.91036013
+)
+Stock Object
+(
+    [rank:Stock:private] => 279
+    [symbol:Stock:private] => TCMD
+    [company:Stock:private] => Tactile Systems Technology| Inc.
+    [quant:Stock:private] => 4.61
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.75
+    [marketCap:Stock:private] => 0.3298888
+)
+Stock Object
+(
+    [rank:Stock:private] => 280
+    [symbol:Stock:private] => X
+    [company:Stock:private] => United States Steel Corporation
+    [quant:Stock:private] => 4.61
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 5.4458982
+)
+Stock Object
+(
+    [rank:Stock:private] => 281
+    [symbol:Stock:private] => ARLO
+    [company:Stock:private] => Arlo Technologies| Inc.
+    [quant:Stock:private] => 4.61
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 0.517003552
+)
+Stock Object
+(
+    [rank:Stock:private] => 282
+    [symbol:Stock:private] => CNM
+    [company:Stock:private] => Core & Main| Inc.
+    [quant:Stock:private] => 4.61
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.75
+    [marketCap:Stock:private] => 5.1855237
+)
+Stock Object
+(
+    [rank:Stock:private] => 283
+    [symbol:Stock:private] => PBAM
+    [company:Stock:private] => Private Bancorp of America| Inc.
+    [quant:Stock:private] => 4.61
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.1583624
+)
+Stock Object
+(
+    [rank:Stock:private] => 284
+    [symbol:Stock:private] => AMR
+    [company:Stock:private] => Alpha Metallurgical Resources| Inc.
+    [quant:Stock:private] => 4.6
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 4.33
+    [marketCap:Stock:private] => 2.18892058
+)
+Stock Object
+(
+    [rank:Stock:private] => 285
+    [symbol:Stock:private] => FSBW
+    [company:Stock:private] => FS Bancorp| Inc.
+    [quant:Stock:private] => 4.6
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 0.226763856
+)
+Stock Object
+(
+    [rank:Stock:private] => 286
+    [symbol:Stock:private] => FFBC
+    [company:Stock:private] => First Financial Bancorp.
+    [quant:Stock:private] => 4.6
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 2.0388343
+)
+Stock Object
+(
+    [rank:Stock:private] => 287
+    [symbol:Stock:private] => HCC
+    [company:Stock:private] => Warrior Met Coal| Inc.
+    [quant:Stock:private] => 4.6
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.71
+    [marketCap:Stock:private] => 1.7244713
+)
+Stock Object
+(
+    [rank:Stock:private] => 288
+    [symbol:Stock:private] => ENVA
+    [company:Stock:private] => Enova International| Inc.
+    [quant:Stock:private] => 4.6
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.2
+    [marketCap:Stock:private] => 1.3201216
+)
+Stock Object
+(
+    [rank:Stock:private] => 289
+    [symbol:Stock:private] => CALB
+    [company:Stock:private] => California BanCorp
+    [quant:Stock:private] => 4.6
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.166649584
+)
+Stock Object
+(
+    [rank:Stock:private] => 290
+    [symbol:Stock:private] => CVCY
+    [company:Stock:private] => Central Valley Community Bancorp
+    [quant:Stock:private] => 4.6
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.6
+    [marketCap:Stock:private] => 0.246265952
+)
+Stock Object
+(
+    [rank:Stock:private] => 291
+    [symbol:Stock:private] => JRONY
+    [company:Stock:private] => Jer¢nimo Martins| SGPS| S.A.
+    [quant:Stock:private] => 4.6
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 13.7254267
+)
+Stock Object
+(
+    [rank:Stock:private] => 292
+    [symbol:Stock:private] => AAOI
+    [company:Stock:private] => Applied Optoelectronics| Inc.
+    [quant:Stock:private] => 4.59
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 0.068564648
+)
+Stock Object
+(
+    [rank:Stock:private] => 293
+    [symbol:Stock:private] => IDCC
+    [company:Stock:private] => InterDigital| Inc.
+    [quant:Stock:private] => 4.59
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 2.15360333
+)
+Stock Object
+(
+    [rank:Stock:private] => 294
+    [symbol:Stock:private] => SSEZY
+    [company:Stock:private] => SSE plc
+    [quant:Stock:private] => 4.59
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 22.1769871
+)
+Stock Object
+(
+    [rank:Stock:private] => 295
+    [symbol:Stock:private] => UHOIF
+    [company:Stock:private] => Ushio Inc.
+    [quant:Stock:private] => 4.59
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 1.39356186
+)
+Stock Object
+(
+    [rank:Stock:private] => 296
+    [symbol:Stock:private] => WAFD
+    [company:Stock:private] => Washington Federal| Inc.
+    [quant:Stock:private] => 4.59
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 1.9709641
+)
+Stock Object
+(
+    [rank:Stock:private] => 297
+    [symbol:Stock:private] => GVA
+    [company:Stock:private] => Granite Construction Incorporated
+    [quant:Stock:private] => 4.59
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 1.75153126
+)
+Stock Object
+(
+    [rank:Stock:private] => 298
+    [symbol:Stock:private] => FROG
+    [company:Stock:private] => JFrog Ltd.
+    [quant:Stock:private] => 4.59
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.16
+    [marketCap:Stock:private] => 1.85147187
+)
+Stock Object
+(
+    [rank:Stock:private] => 299
+    [symbol:Stock:private] => HGV
+    [company:Stock:private] => Hilton Grand Vacations Inc.
+    [quant:Stock:private] => 4.58
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 4.7642353
+)
+Stock Object
+(
+    [rank:Stock:private] => 300
+    [symbol:Stock:private] => THR
+    [company:Stock:private] => Thermon Group Holdings| Inc.
+    [quant:Stock:private] => 4.58
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.7990599
+)
+Stock Object
+(
+    [rank:Stock:private] => 301
+    [symbol:Stock:private] => FUN
+    [company:Stock:private] => Cedar Fair| L.P.
+    [quant:Stock:private] => 4.58
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 2.27456256
+)
+Stock Object
+(
+    [rank:Stock:private] => 302
+    [symbol:Stock:private] => EDAP
+    [company:Stock:private] => EDAP TMS S.A.
+    [quant:Stock:private] => 4.58
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.36243824
+)
+Stock Object
+(
+    [rank:Stock:private] => 303
+    [symbol:Stock:private] => CLW
+    [company:Stock:private] => Clearwater Paper Corporation
+    [quant:Stock:private] => 4.58
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.54409024
+)
+Stock Object
+(
+    [rank:Stock:private] => 304
+    [symbol:Stock:private] => OMRNY
+    [company:Stock:private] => OMRON Corporation
+    [quant:Stock:private] => 4.58
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 11.093247
+)
+Stock Object
+(
+    [rank:Stock:private] => 305
+    [symbol:Stock:private] => DAL
+    [company:Stock:private] => Delta Air Lines| Inc.
+    [quant:Stock:private] => 4.58
+    [saAuthors:Stock:private] => 4.4
+    [wallStreet:Stock:private] => 4.7
+    [marketCap:Stock:private] => 21.0327982
+)
+Stock Object
+(
+    [rank:Stock:private] => 306
+    [symbol:Stock:private] => TPR
+    [company:Stock:private] => Tapestry| Inc.
+    [quant:Stock:private] => 4.57
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.12
+    [marketCap:Stock:private] => 9.6554936
+)
+Stock Object
+(
+    [rank:Stock:private] => 307
+    [symbol:Stock:private] => UBER
+    [company:Stock:private] => Uber Technologies| Inc.
+    [quant:Stock:private] => 4.57
+    [saAuthors:Stock:private] => 4.08
+    [wallStreet:Stock:private] => 4.44
+    [marketCap:Stock:private] => 63.874851
+)
+Stock Object
+(
+    [rank:Stock:private] => 308
+    [symbol:Stock:private] => RES
+    [company:Stock:private] => RPC| Inc.
+    [quant:Stock:private] => 4.57
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.2
+    [marketCap:Stock:private] => 1.63688102
+)
+Stock Object
+(
+    [rank:Stock:private] => 309
+    [symbol:Stock:private] => AX
+    [company:Stock:private] => Axos Financial| Inc.
+    [quant:Stock:private] => 4.57
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.16
+    [marketCap:Stock:private] => 2.25482675
+)
+Stock Object
+(
+    [rank:Stock:private] => 310
+    [symbol:Stock:private] => WFC
+    [company:Stock:private] => Wells Fargo & Company
+    [quant:Stock:private] => 4.57
+    [saAuthors:Stock:private] => 3.57
+    [wallStreet:Stock:private] => 4.19
+    [marketCap:Stock:private] => 143
+)
+Stock Object
+(
+    [rank:Stock:private] => 311
+    [symbol:Stock:private] => FSTX
+    [company:Stock:private] => F-star Therapeutics| Inc.
+    [quant:Stock:private] => 4.57
+    [saAuthors:Stock:private] => 2
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.156511264
+)
+Stock Object
+(
+    [rank:Stock:private] => 312
+    [symbol:Stock:private] => HUIZ
+    [company:Stock:private] => Huize Holding Limited
+    [quant:Stock:private] => 4.57
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.06013196
+)
+Stock Object
+(
+    [rank:Stock:private] => 313
+    [symbol:Stock:private] => CLMB
+    [company:Stock:private] => Climb Global Solutions| Inc.
+    [quant:Stock:private] => 4.57
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.210636816
+)
+Stock Object
+(
+    [rank:Stock:private] => 314
+    [symbol:Stock:private] => RLX
+    [company:Stock:private] => RLX Technology Inc.
+    [quant:Stock:private] => 4.56
+    [saAuthors:Stock:private] => 5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 3.82329318
+)
+Stock Object
+(
+    [rank:Stock:private] => 315
+    [symbol:Stock:private] => RICOY
+    [company:Stock:private] => Ricoh Company| Ltd.
+    [quant:Stock:private] => 4.56
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 4.4667715
+)
+Stock Object
+(
+    [rank:Stock:private] => 316
+    [symbol:Stock:private] => EXLS
+    [company:Stock:private] => ExlService Holdings| Inc.
+    [quant:Stock:private] => 4.56
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 5.0640287
+)
+Stock Object
+(
+    [rank:Stock:private] => 317
+    [symbol:Stock:private] => SMFKY
+    [company:Stock:private] => Smurfit Kappa Group Plc
+    [quant:Stock:private] => 4.56
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 8.8217641
+)
+Stock Object
+(
+    [rank:Stock:private] => 318
+    [symbol:Stock:private] => ARCH
+    [company:Stock:private] => Arch Resources| Inc.
+    [quant:Stock:private] => 4.56
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.8
+    [marketCap:Stock:private] => 2.32941312
+)
+Stock Object
+(
+    [rank:Stock:private] => 319
+    [symbol:Stock:private] => XPOF
+    [company:Stock:private] => Xponential Fitness| Inc.
+    [quant:Stock:private] => 4.56
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.72
+    [marketCap:Stock:private] => 1.33277811
+)
+Stock Object
+(
+    [rank:Stock:private] => 320
+    [symbol:Stock:private] => RPHM
+    [company:Stock:private] => Reneo Pharmaceuticals| Inc.
+    [quant:Stock:private] => 4.56
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.66
+    [marketCap:Stock:private] => 0.140064272
+)
+Stock Object
+(
+    [rank:Stock:private] => 321
+    [symbol:Stock:private] => PAGP
+    [company:Stock:private] => Plains GP Holdings| L.P.
+    [quant:Stock:private] => 4.55
+    [saAuthors:Stock:private] => 4.33
+    [wallStreet:Stock:private] => 4.23
+    [marketCap:Stock:private] => 2.95962573
+)
+Stock Object
+(
+    [rank:Stock:private] => 322
+    [symbol:Stock:private] => SPLK
+    [company:Stock:private] => Splunk Inc.
+    [quant:Stock:private] => 4.55
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 14.5938555
+)
+Stock Object
+(
+    [rank:Stock:private] => 323
+    [symbol:Stock:private] => STNE
+    [company:Stock:private] => StoneCo Ltd.
+    [quant:Stock:private] => 4.55
+    [saAuthors:Stock:private] => 4.33
+    [wallStreet:Stock:private] => 3.42
+    [marketCap:Stock:private] => 2.7840576
+)
+Stock Object
+(
+    [rank:Stock:private] => 324
+    [symbol:Stock:private] => RBCAA
+    [company:Stock:private] => Republic Bancorp| Inc.
+    [quant:Stock:private] => 4.55
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.5
+    [marketCap:Stock:private] => 0.80209018
+)
+Stock Object
+(
+    [rank:Stock:private] => 325
+    [symbol:Stock:private] => FISV
+    [company:Stock:private] => Fiserv| Inc.
+    [quant:Stock:private] => 4.55
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.02
+    [marketCap:Stock:private] => 67.944428
+)
+Stock Object
+(
+    [rank:Stock:private] => 326
+    [symbol:Stock:private] => TMHC
+    [company:Stock:private] => Taylor Morrison Home Corporation
+    [quant:Stock:private] => 4.55
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.57
+    [marketCap:Stock:private] => 3.85001626
+)
+Stock Object
+(
+    [rank:Stock:private] => 327
+    [symbol:Stock:private] => GSL
+    [company:Stock:private] => Global Ship Lease| Inc.
+    [quant:Stock:private] => 4.55
+    [saAuthors:Stock:private] => 3.75
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.66006189
+)
+Stock Object
+(
+    [rank:Stock:private] => 328
+    [symbol:Stock:private] => DRI
+    [company:Stock:private] => Darden Restaurants| Inc.
+    [quant:Stock:private] => 4.54
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.06
+    [marketCap:Stock:private] => 18.0732355
+)
+Stock Object
+(
+    [rank:Stock:private] => 329
+    [symbol:Stock:private] => VRTV
+    [company:Stock:private] => Veritiv Corporation
+    [quant:Stock:private] => 4.54
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 1.60892954
+)
+Stock Object
+(
+    [rank:Stock:private] => 330
+    [symbol:Stock:private] => PRO
+    [company:Stock:private] => PROS Holdings| Inc.
+    [quant:Stock:private] => 4.54
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.57
+    [marketCap:Stock:private] => 1.19636595
+)
+Stock Object
+(
+    [rank:Stock:private] => 331
+    [symbol:Stock:private] => APOG
+    [company:Stock:private] => Apogee Enterprises| Inc.
+    [quant:Stock:private] => 4.54
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.2
+    [marketCap:Stock:private] => 0.88455712
+)
+Stock Object
+(
+    [rank:Stock:private] => 332
+    [symbol:Stock:private] => GNFT
+    [company:Stock:private] => Genfit S.A.
+    [quant:Stock:private] => 4.54
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.66
+    [marketCap:Stock:private] => 0.202815872
+)
+Stock Object
+(
+    [rank:Stock:private] => 333
+    [symbol:Stock:private] => EEFT
+    [company:Stock:private] => Euronet Worldwide| Inc.
+    [quant:Stock:private] => 4.54
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 5.1859087
+)
+Stock Object
+(
+    [rank:Stock:private] => 334
+    [symbol:Stock:private] => FUJIY
+    [company:Stock:private] => FUJIFILM Holdings Corporation
+    [quant:Stock:private] => 4.54
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 20.2864783
+)
+Stock Object
+(
+    [rank:Stock:private] => 335
+    [symbol:Stock:private] => SVRA
+    [company:Stock:private] => Savara Inc.
+    [quant:Stock:private] => 4.53
+    [saAuthors:Stock:private] => 2
+    [wallStreet:Stock:private] => 4.6
+    [marketCap:Stock:private] => 0.231509328
+)
+Stock Object
+(
+    [rank:Stock:private] => 336
+    [symbol:Stock:private] => LTH
+    [company:Stock:private] => Life Time Group Holdings| Inc.
+    [quant:Stock:private] => 4.53
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 3.9
+    [marketCap:Stock:private] => 3.13614464
+)
+Stock Object
+(
+    [rank:Stock:private] => 337
+    [symbol:Stock:private] => CELH
+    [company:Stock:private] => Celsius Holdings| Inc.
+    [quant:Stock:private] => 4.53
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 6.4265021
+)
+Stock Object
+(
+    [rank:Stock:private] => 338
+    [symbol:Stock:private] => IGIFF
+    [company:Stock:private] => IGM Financial Inc.
+    [quant:Stock:private] => 4.53
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3.44
+    [marketCap:Stock:private] => 7.0181898
+)
+Stock Object
+(
+    [rank:Stock:private] => 339
+    [symbol:Stock:private] => SEMR
+    [company:Stock:private] => Semrush Holdings| Inc.
+    [quant:Stock:private] => 4.53
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.42
+    [marketCap:Stock:private] => 1.21261171
+)
+Stock Object
+(
+    [rank:Stock:private] => 340
+    [symbol:Stock:private] => SEAS
+    [company:Stock:private] => SeaWorld Entertainment| Inc.
+    [quant:Stock:private] => 4.53
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.44
+    [marketCap:Stock:private] => 3.66258202
+)
+Stock Object
+(
+    [rank:Stock:private] => 341
+    [symbol:Stock:private] => CZNC
+    [company:Stock:private] => Citizens & Northern Corporation
+    [quant:Stock:private] => 4.53
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.332423136
+)
+Stock Object
+(
+    [rank:Stock:private] => 342
+    [symbol:Stock:private] => SSREY
+    [company:Stock:private] => Swiss Re AG
+    [quant:Stock:private] => 4.53
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 27.4349896
+)
+Stock Object
+(
+    [rank:Stock:private] => 343
+    [symbol:Stock:private] => TIG
+    [company:Stock:private] => Trean Insurance Group| Inc.
+    [quant:Stock:private] => 4.52
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.312040736
+)
+Stock Object
+(
+    [rank:Stock:private] => 344
+    [symbol:Stock:private] => PHM
+    [company:Stock:private] => PulteGroup| Inc.
+    [quant:Stock:private] => 4.52
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 12.5025731
+)
+Stock Object
+(
+    [rank:Stock:private] => 345
+    [symbol:Stock:private] => TCFC
+    [company:Stock:private] => The Community Financial Corporation
+    [quant:Stock:private] => 4.52
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 0.196431216
+)
+Stock Object
+(
+    [rank:Stock:private] => 346
+    [symbol:Stock:private] => SGIOY
+    [company:Stock:private] => Shionogi & Co.| Ltd.
+    [quant:Stock:private] => 4.52
+    [saAuthors:Stock:private] => 5
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 13.24237
+)
+Stock Object
+(
+    [rank:Stock:private] => 347
+    [symbol:Stock:private] => RBBN
+    [company:Stock:private] => Ribbon Communications Inc.
+    [quant:Stock:private] => 4.52
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.6086055
+)
+Stock Object
+(
+    [rank:Stock:private] => 348
+    [symbol:Stock:private] => TITN
+    [company:Stock:private] => Titan Machinery Inc.
+    [quant:Stock:private] => 4.52
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.6
+    [marketCap:Stock:private] => 0.67532576
+)
+Stock Object
+(
+    [rank:Stock:private] => 349
+    [symbol:Stock:private] => VCTR
+    [company:Stock:private] => Victory Capital Holdings| Inc.
+    [quant:Stock:private] => 4.52
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3.36
+    [marketCap:Stock:private] => 2.003696
+)
+Stock Object
+(
+    [rank:Stock:private] => 350
+    [symbol:Stock:private] => OVID
+    [company:Stock:private] => Ovid Therapeutics Inc.
+    [quant:Stock:private] => 4.51
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.159310816
+)
+Stock Object
+(
+    [rank:Stock:private] => 351
+    [symbol:Stock:private] => BELFB
+    [company:Stock:private] => Bel Fuse Inc.
+    [quant:Stock:private] => 4.51
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 0.414569152
+)
+Stock Object
+(
+    [rank:Stock:private] => 352
+    [symbol:Stock:private] => CX
+    [company:Stock:private] => CEMEX| S.A.B. de C.V.
+    [quant:Stock:private] => 4.51
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.05
+    [marketCap:Stock:private] => 7.0217672
+)
+Stock Object
+(
+    [rank:Stock:private] => 353
+    [symbol:Stock:private] => ARLP
+    [company:Stock:private] => Alliance Resource Partners| L.P.
+    [quant:Stock:private] => 4.51
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 2.39896653
+)
+Stock Object
+(
+    [rank:Stock:private] => 354
+    [symbol:Stock:private] => UBS
+    [company:Stock:private] => UBS Group AG
+    [quant:Stock:private] => 4.51
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 3
+    [marketCap:Stock:private] => 57.396433
+)
+Stock Object
+(
+    [rank:Stock:private] => 355
+    [symbol:Stock:private] => KUBTY
+    [company:Stock:private] => Kubota Corporation
+    [quant:Stock:private] => 4.51
+    [saAuthors:Stock:private] => 3.5
+    [wallStreet:Stock:private] => 2
+    [marketCap:Stock:private] => 17.3881426
+)
+Stock Object
+(
+    [rank:Stock:private] => 356
+    [symbol:Stock:private] => NOK
+    [company:Stock:private] => Nokia Oyj
+    [quant:Stock:private] => 4.51
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 25.3170278
+)
+Stock Object
+(
+    [rank:Stock:private] => 357
+    [symbol:Stock:private] => BUD
+    [company:Stock:private] => Anheuser-Busch InBev SA/NV
+    [quant:Stock:private] => 4.5
+    [saAuthors:Stock:private] => 3.75
+    [wallStreet:Stock:private] => 3.55
+    [marketCap:Stock:private] => 119
+)
+Stock Object
+(
+    [rank:Stock:private] => 358
+    [symbol:Stock:private] => FDUS
+    [company:Stock:private] => Fidus Investment
+    [quant:Stock:private] => 4.5
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.16
+    [marketCap:Stock:private] => 0
+)
+Stock Object
+(
+    [rank:Stock:private] => 359
+    [symbol:Stock:private] => MNSB
+    [company:Stock:private] => MainStreet Bancshares| Inc.
+    [quant:Stock:private] => 4.5
+    [saAuthors:Stock:private] => 0
+    [wallStreet:Stock:private] => 5
+    [marketCap:Stock:private] => 0.169679424
+)
+Stock Object
+(
+    [rank:Stock:private] => 360
+    [symbol:Stock:private] => MESA
+    [company:Stock:private] => Mesa Air Group| Inc.
+    [quant:Stock:private] => 4.5
+    [saAuthors:Stock:private] => 3.66
+    [wallStreet:Stock:private] => 2.75
+    [marketCap:Stock:private] => 0.095776296
+)
+Stock Object
+(
+    [rank:Stock:private] => 361
+    [symbol:Stock:private] => BOWL
+    [company:Stock:private] => Bowlero Corp.
+    [quant:Stock:private] => 4.5
+    [saAuthors:Stock:private] => 4
+    [wallStreet:Stock:private] => 4.5
+    [marketCap:Stock:private] => 2.49946086
+)
+Stock Object
+(
+    [rank:Stock:private] => 362
+    [symbol:Stock:private] => BNTX
+    [company:Stock:private] => BioNTech SE
+    [quant:Stock:private] => 4.5
+    [saAuthors:Stock:private] => 4.5
+    [wallStreet:Stock:private] => 3.81
+    [marketCap:Stock:private] => 31.5050107
+)
+Stock Object
+(
+    [rank:Stock:private] => 363
+    [symbol:Stock:private] => CLX
+    [company:Stock:private] => The Clorox Company
+    [quant:Stock:private] => 4.5
+    [saAuthors:Stock:private] => 3.33
+    [wallStreet:Stock:private] => 2.47
+    [marketCap:Stock:private] => 19.0216028
+)
+Stock Object
+(
+    [rank:Stock:private] => 364
+    [symbol:Stock:private] => MGNX
+    [company:Stock:private] => MacroGenics| Inc.
+    [quant:Stock:private] => 4.5
+    [saAuthors:Stock:private] => 3
+    [wallStreet:Stock:private] => 4
+    [marketCap:Stock:private] => 0.411226464
+)
+Joyce Wei
