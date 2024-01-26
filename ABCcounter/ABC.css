@@ -1,0 +1,56 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+div.developer {
+    font-size: 90%;
+    margin-bottom: .2in;
+}
+div.abc, div.abcS52 {
+    font-size: 30pt;
+    float: left;
+    margin: 3px;
+    border: solid 1px black;
+    height: .75in;
+    width: .75in;
+    text-align: center;
+    padding-top: 20px;
+}
+div.abcS52 {
+    font-size: 15pt;
+    height: .5in;
+    width: .5in;
+    padding-top: 15px;
+
+}
+div.highlight {
+    background-color: antiquewhite;
+    border: dashed 1px black;
+}
+#screen-display {
+    border: solid 1px black;
+    width: 10.15in;
+    height: 8in;
+}
+#fsMode, #fsHighlight {
+    display: inline-block;
+    height: 1.2in;
+}
+#fsMode {
+    width: 7.9in;
+}
+ #fsMode span {
+    width: 1.5in;
+    border: solid 1px rgb(129, 147, 170);
+    display: inline-block;
+    margin-bottom: 3px;
+ }
+ #fsHighlight {
+    width: 1.6in;
+ }
+ #fsHighlight span {
+    width: 1.5in;
+    border: solid 1px rgb(129, 147, 170);
+    display: inline-block;
+    margin-bottom: 3px;
+ }
