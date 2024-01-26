@@ -1,0 +1,75 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+div.developer {
+    font-size: 90%;
+    margin-bottom: .2in;
+}
+div.abc, div.abcS52 {
+    font-size: 35pt;
+    float: left;
+    margin: 3px;
+    border: solid 1px black;
+    height: 1in;
+    width: 1in;
+    text-align: center;
+    padding-top: 30px;
+}
+div.abcS52 {
+    font-size: 17pt;
+    height: .5in;
+    width: .5in;
+    padding-top: 15px;
+}
+#screen-display > div.n123 {
+    float: left;
+    font-size: 11pt;
+    height: .32in;
+    width: .426in;
+    margin-left: 3px;
+    margin-right: 1px;
+
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-top: 6x !important;
+    border: solid 1px black;
+    text-align: center;
+    padding-top: 10px;
+}
+.data-entry{
+    width: .5in;
+}
+div.highlight {
+    background-color: antiquewhite;
+    border: dashed 1px black;
+}
+#screen-display {
+    border: solid 1px black;
+    width: 8.9in;
+    max-height: 11in;
+    overflow-y: scroll;
+}
+#fsMode, #fsHighlight {
+    display: inline-block;
+    height: 1.35in;
+}
+#fsMode {
+    width: 6.5in;
+}
+ #fsMode span {
+    width: 1.5in;
+    border: solid 1px rgb(129, 147, 170);
+    display: inline-block;
+    margin-bottom: 3px;
+ }
+ #fsHighlight {
+    width: 1.75in;
+ }
+ #fsHighlight span {
+    width: 1.5in;
+    border: solid 1px rgb(129, 147, 170);
+    display: inline-block;
+    margin-bottom: 3px;
+ }
+ 
