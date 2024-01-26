@@ -1,0 +1,35 @@
+Array
+(
+    [id] => A001
+    [company_name] => Allianz Life Insurance Co Of North America
+)
+Array
+(
+    [id] => B002
+    [company_name] => Berkshire Hathaway Inc
+)
+Array
+(
+    [id] => B003
+    [company_name] => Bill  Melinda Gates Foundation Trust
+)
+Array
+(
+    [id] => B004
+    [company_name] => BlackRock Inc
+)
+Array
+(
+    [id] => C005
+    [company_name] => Citigroup Inc
+)
+Array
+(
+    [id] => G006
+    [company_name] => Goldman Sachs Group
+)
+Array
+(
+    [id] => T007
+    [company_name] => Td Ameritrade Investment Management LLC
+)
