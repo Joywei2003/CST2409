@@ -1,0 +1,46 @@
+<!-- 
+    filemane:01.Login.html
+    Developer: Joyce Wei
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login v2</title>
+        <style>
+            *{
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+            label{
+                color: blueviolet;
+                font-size: 20px;
+            }
+            body{
+                background-color:aliceblue
+            }
+        </style>
+        <script>
+            function hello(){
+                let pwd = document.getElementById("password").value;
+                let login = document.getElementById("login").value;
+                console.log({hello: new Date, pwd, login});
+            }
+        </script>
+    </head>
+<body>
+    <h1>Login 2</h1>
+    <table>
+        <tr>
+            <td><label for="">Login:</label></td>
+            <td><input type="text" id="login"></td>
+        </tr>
+        <tr>
+            <td><label for="">Password:</label></td>
+            <td><input type="text" id="password"></td>
+        </tr>
+    </table>
+    <Button onclick="hello()">Login</Button>
+</body>
+</html>
